@@ -51,13 +51,14 @@ img {
   box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.5);
 }
 
-.blocos {
-  list-style: none;
+header {
   display: inline-block;
   background-color: #0cb7f2;
-  text-align: center;
-  text-decoration: none;
+  text-align: center
   font-size: 24px;
+}
+
+.blocos {
   height: 50px;
   width: 300px;
   padding: 10px;
