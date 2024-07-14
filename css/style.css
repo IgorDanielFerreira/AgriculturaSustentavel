@@ -50,6 +50,10 @@ img {
   box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.5);
 }
 
+ul {
+  padding: 20px;
+}
+
 .menu {
   display: inline-block;
   background-color: #0cb7f2;
@@ -65,14 +69,17 @@ img {
 
 #text01 {
   background-color: #F5FFD0;
+  padding: 10px;
 }
 
 #text02 {
   background-color: #E6FF8E;
+  padding: 10px;
 }
 
 #text04 {
   background-color: #DCDEDA;
+  padding: 10px;
 }
 
 #dec1 {
