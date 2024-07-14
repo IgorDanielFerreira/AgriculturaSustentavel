@@ -51,7 +51,7 @@ img {
   box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.5);
 }
 
-header {
+.menu {
   display: inline-block;
   background-color: #0cb7f2;
   text-align: center;
