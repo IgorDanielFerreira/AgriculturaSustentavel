@@ -1,0 +1,24 @@
+.responsive-image {
+  height: 350px;
+  widht: 100%;
+}
+
+@media screen and (max-width: 600px) {
+  .responsive-image img {
+    max-width: 95%;
+  }
+}
+
+@media screen and (max-width: 960px) {
+  .responsive-image img {
+    max-width: 70%;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .responsive-image img {
+    max-width: 60%;
+  }
+}
+
+

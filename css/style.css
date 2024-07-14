@@ -1,0 +1,106 @@
+p {
+  font-family: times;
+  font-size: 16px;
+  text-align: justify;
+  color: #000000;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  text-align: center;
+  font-family: optima;
+  font-weight: bold ;
+}
+  
+h1 {
+  font-size: 24px;
+  color: #000000;
+}
+  
+h2 {
+  font-size: 22px;
+  color: #323232;
+}
+
+h3 {
+  font-size: 20px;
+  color: #2B2B2B;
+}
+h4 {
+  font-size: 18px;
+  color: #161616;
+}
+
+ul {
+  margin-left: 20px;
+  text-size: 20px;
+  color: #333C44;
+}
+
+footer {
+  background-color: #FFEEC8;
+  text-align: center;
+  padding: 30px;
+  margin: 20px;
+}
+
+main {
+  margin: 15px;
+}
+
+img {
+  box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.5);
+}
+
+.blocos {
+  list-style: none;
+  display: inline-block;
+  background-color: #0cb7f2;
+  text-align: center;
+  text-decoration: none;
+  font-size: 24px;
+  height: 50px;
+  width: 300px;
+  padding: 10px;
+  margin: -10px;
+}
+
+.blocos-link.active {
+  background-color: #0979b0;
+  color: #00008B;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+.logo {
+  background-image: url('../assets/images/image.png');
+}
+
+#text01 {
+  background-color: #F5FFD0;
+}
+
+#text02 {
+  background-color: #E6FF8E;
+}
+
+#text04 {
+  background-color: #DCDEDA;
+}
+
+#dec1 {
+  background-color:
+}
+#dec2 {
+  background-color:
+}
+#dec3 {
+  background-color:
+}
+
+#Copyright {
+  color: #000000;
+  font-size: 16px;
+  font-weight: bold;
+}
