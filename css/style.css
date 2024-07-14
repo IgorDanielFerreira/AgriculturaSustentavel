@@ -54,19 +54,9 @@ img {
   display: inline-block;
   background-color: #0cb7f2;
   text-align: center;
-  font-size: 50px;
-}
-
-.blocos {
-  height: 100px;
-  width: 350px;
-  padding: 10px;
-  margin: -10px;
-}
-
-.blocos-link.active {
-  background-color: #0979b0;
-  color: #00008B;
+  font-size: 16px;
+  width: 100vh;
+  height: 50px;
 }
 
 .logo {
