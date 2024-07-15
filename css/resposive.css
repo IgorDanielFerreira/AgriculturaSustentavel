@@ -1,22 +1,22 @@
 .responsive-image {
-  witdh: 150px;
+  witdh: 235px;
 }
 
 @media screen and (max-width: 600px) {
   .resposive-image {
-  witdh: 150px;
+  width: ;
   }
 }
 
 @media screen and (max-width: 960px) {
   .responsive-image {
-  width: 500px;
+  width: ;
   }
 }
 
 @media screen and (min-width: 1280px) {
   .responsive-image {
-  width: 800px;
+  width: ;
   }
 }
 
