@@ -28,7 +28,7 @@
 }
 
 @media screen and (min-witdh: 1201) {
-  resposive-image {
+  .resposive-image {
     witdh:700px
   }
 }
