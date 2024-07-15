@@ -79,6 +79,7 @@ header {
   background-color: #6FB132;
   text-align: center;
   display: flex;
+  list-style: none;
   padding: 20px;
   font-size: 24px;
   margin-top: 50px;
