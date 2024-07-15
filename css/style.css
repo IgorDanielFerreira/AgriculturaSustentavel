@@ -54,6 +54,13 @@ ul {
   padding: 20px;
 }
 
+.linha {
+  width: 100%;
+  height: 2px;
+  background-color: #CCC;
+  margin: 20px 0;
+}
+
 .menu {
   display: inline-block;
   background-color: #0cb7f2;
