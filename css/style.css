@@ -6,6 +6,7 @@
 ul {
   padding: 20px;
   font-family: times;
+  display: flex;
 }
 
 p {
@@ -68,7 +69,6 @@ img {
 .menu {
   text-align: center;
   style-type: none;
-  display: flex;
   font-size: 30px;
   margin-top: 200px;
   width: 100%;
