@@ -73,6 +73,7 @@ ul {
 header {
   background-image: url('../assets/images/image.png');
   position: fixed;
+  top: 100px;
   height: 70px;
   width: 100%;
 }
