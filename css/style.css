@@ -56,6 +56,8 @@ ul {
 
 .padding {
   margin-top: 200px;
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 .line {
   width: 100%;
