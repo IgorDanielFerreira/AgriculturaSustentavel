@@ -68,10 +68,9 @@ img {
 
 .menu {
   style-type: none;
-  font-size: 30px;
-  margin-top: 200px;
+  font-size: 24px
   width: 100%;
-  height: 70px;
+  height: 40px;
 }
 
 header {
