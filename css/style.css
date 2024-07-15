@@ -56,7 +56,7 @@ img {
 }
 
 header {
-  background-image: url('../assets/images/20240715125843.png');
+  background-color: #000000;
   background-size: cover;
   background-repeat: no-repeat;
   position: fixed;
