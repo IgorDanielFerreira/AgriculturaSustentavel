@@ -1,20 +1,37 @@
-@media screen and (max-width: 768px) {
+.resposive-image {
+  width: 235px;
+}
+@media screen and (max-width: 480px) {
   .resposive-image {
     float: none;
     margin: 0 auto;
-    width: 235px;
+    width: 250px;
 }
-
-@media screen and (min-width: 769px) {
+}
+  
+@media screen and (max-width: 768px) {
   .responsive-image {
   width: 235px;
   }
 }
 
-@media screen and (min-width: 1200px) {
+@media screen and (max-width: 1024px) {
   .responsive-image {
-  width: 900px;
+  width: 400px;
   }
 }
+
+@media screen and (max-witdh: 1200px) {
+  .resposive-image {
+    witdh: 500px;
+  }
+}
+
+@media screen and (min-witdh: 1201) {
+  resposive-image {
+    witdh:700px
+  }
+}
+    
 
 
