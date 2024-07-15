@@ -68,7 +68,8 @@ img {
 .menu {
   display-block: inline;
   text-align: center;
-  font-size:  30px;
+  style-type: none;
+  font-size: 30px;
   margin-top: 200px;
   width: 100%;
   height: 70px;
