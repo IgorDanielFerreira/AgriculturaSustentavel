@@ -80,6 +80,10 @@ header {
   margin: 20px 0;
 }
 
+.logo {
+  height: 80px;
+}
+
 .menu {
   background-color: #6FB132;
   text-align: center;
