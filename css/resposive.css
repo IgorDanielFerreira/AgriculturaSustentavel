@@ -4,13 +4,13 @@
 
 @media screen and (max-width: 480px) {
   .resposive-image {
-    height: 0px;
+    height: 100px;
   }
 }
   
 @media screen and (max-width: 768px) {
   .responsive-image {
-  width: 235px;
+  width: 0px;
   }
 }
 
