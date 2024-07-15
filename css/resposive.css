@@ -1,6 +1,6 @@
 .responsive-image {
   widht: 300px;
-  height:235,5px;
+  height:235px;
 }
 
 @media screen and (max-width: 600px) {
