@@ -56,8 +56,6 @@ ul {
 
 .padding {
   margin-top: 200px;
-  background-size: cover;
-  background-repeat: no-repeat;
 }
 .line {
   width: 100%;
@@ -76,6 +74,8 @@ ul {
 
 header {
   background-image: url('../assets/images/image.png');
+  background-size: cover;
+  background-repeat: no-repeat;
   position: fixed;
   top: 0;
   height: 200px;
