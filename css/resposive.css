@@ -1,6 +1,8 @@
 .resposive-image {
+  height: 235px
   width: 200px;
 }
+
 @media screen and (max-width: 480px) {
   .resposive-image {
     width: 200px;
