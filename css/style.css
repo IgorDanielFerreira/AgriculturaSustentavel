@@ -62,6 +62,7 @@ ul {
 }
 
 .menu {
+  display-block: inline;
   text-align: center;
   font-size:  30px;
   width: 100%;
