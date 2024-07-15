@@ -4,7 +4,7 @@
 
 @media screen and (max-width: 480px) {
   .resposive-image {
-    height: 100px;
+    width: 0px;
   }
 }
   
