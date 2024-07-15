@@ -10,13 +10,13 @@
   
 @media screen and (max-width: 768px) {
   .responsive-image {
-  width: 0px;
+  width: 100px;
   }
 }
 
 @media screen and (max-width: 1024px) {
   .responsive-image {
-  width: 400px;
+  width: 0px;
   }
 }
 
