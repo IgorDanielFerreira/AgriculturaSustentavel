@@ -3,9 +3,8 @@
 }
 @media screen and (max-width: 480px) {
   .resposive-image {
-    float: none;
-    margin: 0 auto;
-    width: 250px;
+    height: 235px;
+    width: 200px;
   }
 }
   
