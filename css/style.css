@@ -60,7 +60,6 @@ header {
   background-size: cover;
   background-repeat: no-repeat;
   position: fixed;
-  style-type: none;
   top: 0;
   height: 80px;
   width: 100%;
@@ -78,7 +77,6 @@ header {
 
 .menu {
   background-color: #6FB132;
-  style-type: none;
   text-align: center;
   display: flex;
   padding: 20px;
