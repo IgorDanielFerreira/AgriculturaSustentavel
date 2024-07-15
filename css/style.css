@@ -91,6 +91,24 @@ header {
   margin-top: 50px;
 }
 
+.barrinha-menu {
+  height: 4px;
+  width: 50px;
+  background-color: #000;
+  display: block;
+  margin: 4px;
+  transition: width 2s ease, margin-left 2s ease;
+}
+
+div:hover .barrinha-menu:nth-child(2) {
+  margin-left: 15px;
+}
+
+div:hover .barrinha-menu {
+  width: 35px;
+  transition: width 2s ease, margin-left 2s ease;
+}
+
 #text01 {
   background-color: #F5FFD0;
   padding: 10px;
