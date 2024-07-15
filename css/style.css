@@ -54,10 +54,6 @@ img {
   box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.5);
 }
 
-li {
-  list-style-type: circle;
-}
-
 header {
   background-color: #000000;
   background-size: cover;
