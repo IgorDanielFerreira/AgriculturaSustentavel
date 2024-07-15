@@ -66,7 +66,6 @@ img {
 }
 
 .menu {
-  display-block: inline;
   text-align: center;
   style-type: none;
   display: flex;
