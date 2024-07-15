@@ -61,12 +61,12 @@ header {
   background-repeat: no-repeat;
   position: fixed;
   top: 0;
-  height: 160px;
+  height: 180px;
   width: 100%;
 }
 
 .padding {
-  margin-top: 160px;
+  margin-top: 180px;
 }
 .line {
   width: 100%;
