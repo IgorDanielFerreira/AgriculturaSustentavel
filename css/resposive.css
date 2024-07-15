@@ -1,11 +1,10 @@
 .resposive-image {
-  height: 235px;
-  width: 200px;
+  width: 235px;
 }
 
 @media screen and (max-width: 480px) {
   .resposive-image {
-    width: 200px;
+    height: 235px;
   }
 }
   
@@ -23,13 +22,13 @@
 
 @media screen and (max-witdh: 1200px) {
   .resposive-image {
-    witdh: 500px;
+    width: 500px;
   }
 }
 
 @media screen and (min-witdh: 1201) {
   .resposive-image {
-    witdh:700px
+    width:700px
   }
 }
     
