@@ -9,13 +9,13 @@
 }
 
 @media screen and (max-width: 960px) {
-  .responsive-image img {
+  .responsive-image {
   height: 500px;
   }
 }
 
 @media screen and (min-width: 1280px) {
-  .responsive-image img {
+  .responsive-image {
   height: 800px;
   }
 }
