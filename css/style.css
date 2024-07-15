@@ -74,6 +74,7 @@ header {
   background-image: url('../assets/images/image.png');
   position: fixed;
   height: 70px;
+  widht: 100%;
 }
 
 #text01 {
