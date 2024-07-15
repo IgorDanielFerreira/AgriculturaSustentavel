@@ -69,6 +69,7 @@ img {
   display-block: inline;
   text-align: center;
   style-type: none;
+  display: flex;
   font-size: 30px;
   margin-top: 200px;
   width: 100%;
