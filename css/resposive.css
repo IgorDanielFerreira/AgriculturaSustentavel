@@ -1,10 +1,10 @@
 .resposive-image {
-  width: 0px;
+  width: 100px;
 }
 
 @media screen and (max-width: 480px) {
   .resposive-image {
-    height: 235px;
+    height: 0px;
   }
 }
   
