@@ -65,6 +65,10 @@ header {
   width: 100%;
 }
 
+.imageheader {
+  display: flex;
+}
+
 .padding {
   margin-top: 200px;
 }
