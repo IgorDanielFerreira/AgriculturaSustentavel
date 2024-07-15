@@ -6,7 +6,6 @@
 ul {
   padding: 20px;
   font-family: times;
-  background-color: #6FB132;
 }
 
 p {
@@ -77,6 +76,7 @@ header {
 }
 
 .menu {
+  background-color: #6FB132;
   style-type: none;
   display: flex;
   padding: 20px;
