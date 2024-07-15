@@ -78,8 +78,9 @@ header {
 .menu {
   display: flex;
   style-type: none;
+  padding: 20px;
   font-size: 24px;
-  margin-top: 200px;
+  margin-top: 270px;
 }
 
 #text01 {
