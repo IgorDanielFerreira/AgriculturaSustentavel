@@ -67,22 +67,26 @@
 .iconl {
   width: 30px;
   height: 30px;
+  margin-right: 30px;
 }
 @media only screen and (max-width: 499px) {
   .iconl {
     width: 40px;
     height: 40px;
+    margin-right: 40px;
   }
 }
 @media only screen and (min-width: 500px) and (max-width: 1199px) {
   .iconl {
     width: 60px;
     height: 60px;
+    margin-right: 60px;
   }
 }
 @media only screen and (min-width: 1200px) {
   .iconl {
     width: 80px;
     height: 80px;
+    margin-right: 80px;
   }
 }
