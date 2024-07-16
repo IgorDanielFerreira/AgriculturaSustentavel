@@ -27,88 +27,87 @@
   }
 }
 .logo1 {
-  width: 60px;
-  height: 60px;
+  width: 150px;
+  height: 50px;
 }
-@media only screen and (max-width: 499px) {
+@media only screen and (max-width: 600px) {
   .logo1 {
-    width:  70px;
-    height: 70px;
+    width: 235px;
+    height: 210px;
   }
 }
-@media only screen and (min-width: 500px) and (max-width: 1199px) {
+@media only screen and (min-width: 601px) and (max-width: 991px) {
   .logo1 {
-    width: 80px;
-    height: 80px;
-    margin-top: 0px;
-  }
-}
-@media only screen and (min-width: 1200px) {
-  .logo1 {
-    width: 100px;
+    width: 300px;
     height: 100px;
   }
 }
-.logo2 {
-  width: 250px;
-  height: 60px;
+@media only screen and (min-width: 992px) and (max-width: 1200px){
+  .logo1 {
+    width: 1290px;
+    height: 800px;
+  }
 }
-@media only screen and (max-width: 499px) {
+@media only screen and (min-width: 1201px) {
+  .logo1 {
+    width: 1000px;
+    height: 800px;
+  }
+}
+.logo2 {
+  width: 150px;
+  height: 50px;
+}
+@media only screen and (max-width: 600px) {
+  .logo2 {
+    width: 235px;
+    height: 210px;
+  }
+}
+@media only screen and (min-width: 601px) and (max-width: 991px) {
   .logo2 {
     width: 300px;
-    height: 70px;
+    height: 100px;
   }
 }
-@media only screen and (min-width: 500px) and (max-width: 1199px) {
+@media only screen and (min-width: 992px) and (max-width: 1200px){
   .logo2 {
-    width: 620px;
-    height: 170px;
+    width: 1290px;
+    height: 800px;
   }
 }
-@media only screen and (min-width: 1200px) {
+@media only screen and (min-width: 1201px) {
   .logo2 {
-    width: 800px;
-    height: 230px;
+    width: 1000px;
+    height: 800px;
   }
 }
-.iconl {
-  width: 30px;
-  height: 30px;
+.icon-margin {
+  width: 150px;
+  height: 50px;
 }
-@media only screen and (max-width: 499px) {
-  .iconl {
-    width: 40px;
-    height: 40px;
+@media only screen and (max-width: 600px) {
+  .icon-margin {
+    width: 235px;
+    height: 210px;
   }
 }
-@media only screen and (min-width: 500px) and (max-width: 1199px) {
-  .iconl {
-    width: 60px;
-    height: 60px;
+@media only screen and (min-width: 601px) and (max-width: 991px) {
+  .icon-margin {
+    width: 300px;
+    height: 100px;
   }
 }
-@media only screen and (min-width: 1200px) {
-  .iconl {
-    width: 80px;
-    height: 80px;
+@media only screen and (min-width: 992px) and (max-width: 1200px){
+  .icon-margin {
+    width: 1290px;
+    height: 800px;
   }
 }
-.margin-icon {
-  margin-right: 30px;
-}
-@media only screen and (max-width: 499px) {
-  .margin-icon {
-    margin-right: 40px;
-  }
-}
-@media only screen and (min-width: 500px) and (max-width: 1199px) {
-  .margin-icon {
-   margin-right: 60px;
-  }
-}
-@media only screen and (min-width: 1200px) {
-  .margin-icon {
-   margin-right: 80px;
+@media only screen and (min-width: 1201px) {
+  .responsive-image {
+    width: 1000px;
+    height: 800px;
   }
 }
 main {
