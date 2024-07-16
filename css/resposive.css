@@ -111,3 +111,26 @@
    margin-right: 80px;
   }
 }
+main {
+  margin: 0;
+}
+@media only screen and (max-width: 600px) {
+  main {
+    margin: 0;
+  }
+}
+@media only screen and (min-width: 601px) and (max-width: 991px) {
+  main {
+    margin: 20px;
+  }
+}
+@media only screen and (min-width: 992px) and (max-width: 1200px){
+  main {
+    margin: 40px;
+  }
+}
+@media only screen and (min-width: 1201px) {
+  main {
+    margin: 60px;
+  }
+}
