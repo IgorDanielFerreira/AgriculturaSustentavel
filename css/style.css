@@ -3,13 +3,15 @@
   padding: 0;
 }
 
+html {
+  font-family:times
+}
+
 ul {
   padding: 10px;
-  font-family: times;
 }
 
 p {
-  font-family: times;
   font-size: 16px;
   text-align: justify;
   color: #000000;
@@ -62,6 +64,9 @@ header {
   top: 0;
   height: 80px;
   width: 100%;
+}
+image04 .{
+  text-align: left;
 }
 
 .imageheader {
