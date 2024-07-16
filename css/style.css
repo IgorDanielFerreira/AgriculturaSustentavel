@@ -54,6 +54,7 @@ main {
 
 .nav-link {
   border: 1px solid black;
+  color: #32A9FF;
   padding: 10px;
   width: 100%;
 }
