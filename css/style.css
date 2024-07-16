@@ -84,9 +84,9 @@ header {
   margin: 20px 0;
 }
 
-.logo {
-  style-type: inline block;
-}
+
+
+
 
 .menu {
   background-color: #6FB132;
@@ -113,13 +113,13 @@ header {
 }
 
 #dec1 {
-  background-color:
+  background-color: #323232;
 }
 #dec2 {
-  background-color:
+  background-color: #323232;
 }
 #dec3 {
-  background-color:
+  background-color: #323232;
 }
 
 #Copyright {
