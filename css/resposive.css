@@ -10,8 +10,8 @@
 }
 @media only screen and (min-width: 500px) and (max-width: 1199px) {
   .responsive-image {
-    width: 1000px;
-    height: 500px;
+    width: 1500px;
+    height: 750px;
   }
 }
 @media only screen and (min-width: 1200px) {
