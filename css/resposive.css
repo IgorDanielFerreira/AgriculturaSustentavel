@@ -27,14 +27,14 @@
 }
 @media only screen and (max-width: 499px) {
   .logo1 {
-    width: 90px;
-    height: 90px;
+    width: 70px;
+    height: 70px;
   }
 }
 @media only screen and (min-width: 500px) and (max-width: 1199px) {
   .logo1 {
-    width: 120px;
-    height: 120px;
+    width: 80px;
+    height: 80px;
   }
 }
 @media only screen and (min-width: 1200px) {
