@@ -12,16 +12,10 @@
   width: 200px;
   }
 }
-  
-@media screen and (min-width: 768px) {
-  .responsive-image {
-  width: 100px;
-  }
-}
 
-@media screen and (max-width: 1024px) {
+@media screen (min-width:769px) and (max-width: 1024px) {
   .responsive-image {
-  width: 0px;
+  width: 700px;
   }
 }
 
