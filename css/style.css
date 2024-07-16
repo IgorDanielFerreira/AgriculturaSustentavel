@@ -92,6 +92,7 @@ header {
   display: flex;
   list-style: none;
   font-size: 20px;
+  margin-top: 5px;
 }
 
 #text01 {
