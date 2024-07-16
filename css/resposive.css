@@ -22,25 +22,25 @@
 }
 
 .logo1 {
-  width: 300px;
-  height: 80px;
+  width: 70px;
+  height: 70px;
 }
 @media only screen and (max-width: 499px) {
   .logo1 {
-    width: px;
-    height: 80px;
+    width: 100px;
+    height: 100px;
   }
 }
 @media only screen and (min-width: 500px) and (max-width: 1199px) {
   .logo1 {
-    width: 800px;
-    height: 150px;
+    width: 120px;
+    height: 120px;
   }
 }
 @media only screen and (min-width: 1200px) {
   .logo1 {
-    width: 1000px;
-    height: 200px
+    width: 140px;
+    height: 140px
   }
 }
 
@@ -50,19 +50,19 @@
 }
 @media only screen and (max-width: 499px) {
   .logo2 {
-    width: px;
-    height: 80px;
+    width: 330px;
+    height: 100px;
   }
 }
 @media only screen and (min-width: 500px) and (max-width: 1199px) {
   .logo2 {
-    width: 800px;
-    height: 150px;
+    width: 450px;
+    height: 130px;
   }
 }
 @media only screen and (min-width: 1200px) {
   .logo2 {
-    width: 1000px;
+    width: 600px;
     height: 200px
   }
 }
