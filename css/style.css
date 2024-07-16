@@ -81,6 +81,7 @@ header {
 }
 
 .logo {
+  style-type: inline block;
   height: 80px;
 }
 
