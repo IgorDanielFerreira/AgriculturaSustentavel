@@ -45,24 +45,25 @@
 }
 
 .logo2 {
-  width: 300px;
-  height: 80px;
+  width: 250px;
+  height: 60px;
 }
 @media only screen and (max-width: 499px) {
   .logo2 {
-    width: 330px;
-    height: 100px;
+    width: 300px;
+    height: 80px;
   }
 }
 @media only screen and (min-width: 500px) and (max-width: 1199px) {
   .logo2 {
-    width: 450px;
-    height: 130px;
+    width: 620px;
+    height: 170px;
   }
 }
 @media only screen and (min-width: 1200px) {
   .logo2 {
-    width: 600px;
-    height: 200px
+    width: 800px;
+    height: 230px;
   }
+}
 }
