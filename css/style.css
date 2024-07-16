@@ -47,7 +47,7 @@ footer {
 }
 
 main {
-  margin: 50px;
+  margin: 20px;
 }
 
 .responsive-image {
@@ -91,7 +91,6 @@ header {
   list-style: none;
   padding: 20px;
   font-size: 24px;
-  margin-top: 50px;
 }
 
 #text01 {
