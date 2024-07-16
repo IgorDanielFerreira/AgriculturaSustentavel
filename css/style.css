@@ -86,7 +86,7 @@ header {
   display: flex;
   list-style: none;
   font-size: 20px;
-  top: 10px;
+  padding: -10px;
 }
 
 #text01 {
