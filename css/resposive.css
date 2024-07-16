@@ -10,7 +10,7 @@
 }
 @media only screen and (min-width: 601px) and (max-width: 991px) {
   .responsive-image {
-    width: 300px;
+    width: 280px;
     height: 100px;
   }
 }
@@ -27,87 +27,82 @@
   }
 }
 .logo1 {
-  width: 150px;
-  height: 50px;
+  width: 80px;
+  height: 80px;
 }
 @media only screen and (max-width: 600px) {
   .logo1 {
-    width: 235px;
-    height: 210px;
+    width: 100px;
+    height: 100px;
   }
 }
 @media only screen and (min-width: 601px) and (max-width: 991px) {
   .logo1 {
-    width: 300px;
-    height: 100px;
+    width:  120px;
+    height: 120px;
   }
 }
 @media only screen and (min-width: 992px) and (max-width: 1200px){
   .logo1 {
-    width: 1290px;
-    height: 800px;
+    width: 140px;
+    height: 140px;
   }
 }
 @media only screen and (min-width: 1201px) {
   .logo1 {
-    width: 1000px;
-    height: 800px;
+    width: 160px;
+    height: 160px;
   }
 }
 .logo2 {
-  width: 150px;
-  height: 50px;
+  width: 250px;
+  height: 70px;
 }
 @media only screen and (max-width: 600px) {
   .logo2 {
-    width: 235px;
-    height: 210px;
+    width: 300px;
+    height: 80px;
   }
 }
 @media only screen and (min-width: 601px) and (max-width: 991px) {
   .logo2 {
-    width: 300px;
-    height: 100px;
+    width: 350px;
+    height: 90px;
   }
 }
 @media only screen and (min-width: 992px) and (max-width: 1200px){
   .logo2 {
-    width: 1290px;
-    height: 800px;
+    width: 400px;
+    height: 100px;
   }
 }
 @media only screen and (min-width: 1201px) {
   .logo2 {
-    width: 1000px;
-    height: 800px;
+    width: 450px;
+    height: 110px;
   }
 }
 .icon-margin {
-  width: 150px;
-  height: 50px;
+  margin: ;
 }
 @media only screen and (max-width: 600px) {
   .icon-margin {
-    width: 235px;
-    height: 210px;
+    margin: ;
   }
 }
 @media only screen and (min-width: 601px) and (max-width: 991px) {
   .icon-margin {
-    width: 300px;
-    height: 100px;
+    margin: ;
   }
 }
 @media only screen and (min-width: 992px) and (max-width: 1200px){
   .icon-margin {
-    width: 1290px;
-    height: 800px;
+    margin: ;
   }
 }
 @media only screen and (min-width: 1201px) {
-  .responsive-image {
-    width: 1000px;
-    height: 800px;
+  .icon-margin {
+    margin: ;
   }
 }
 main {
