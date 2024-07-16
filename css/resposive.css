@@ -30,6 +30,14 @@
     width:700px
   }
 }
-    
 
+.logo {
+  width: 200px
+}
+
+  @media screen and (max-width: 480px) {
+  .logo {
+    width: 300px;
+  }
+  }
 
