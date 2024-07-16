@@ -66,9 +66,6 @@ header {
   width: 100%;
 }
 
-.iconl {
-  margin: 100px;
-}
 .imageheader {
   display: flex;
   width: 100%;
@@ -90,7 +87,7 @@ header {
 }
 
 .menu {
-  background-color: #6FB132;
+  background-olor: #6FB132;
   text-align: center;
   display: flex;
   list-style: none;
