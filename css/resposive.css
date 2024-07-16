@@ -1,6 +1,6 @@
 .responsive-image {
-  width: 1000px;
-  height: 500px;
+  width: 500px;
+  height: 250px;
 }
 @media only screen and (max-width: 499px) {
   .responsive-image {
@@ -21,47 +21,47 @@
   }
 }
 
-.logo {
+.logo1 {
   width: 300px;
   height: 80px;
 }
 @media only screen and (max-width: 499px) {
-  .logo {
+  .logo1 {
     width: px;
     height: 80px;
   }
 }
 @media only screen and (min-width: 500px) and (max-width: 1199px) {
-  .logo {
+  .logo1 {
     width: 800px;
     height: 150px;
   }
 }
 @media only screen and (min-width: 1200px) {
-  .logo {
+  .logo1 {
     width: 1000px;
     height: 200px
   }
 }
 
-.logo {
+.logo2 {
   width: 300px;
   height: 80px;
 }
 @media only screen and (max-width: 499px) {
-  .logo {
+  .logo2 {
     width: px;
     height: 80px;
   }
 }
 @media only screen and (min-width: 500px) and (max-width: 1199px) {
-  .logo {
+  .logo2 {
     width: 800px;
     height: 150px;
   }
 }
 @media only screen and (min-width: 1200px) {
-  .logo {
+  .logo2 {
     width: 1000px;
     height: 200px
   }
