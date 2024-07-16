@@ -7,6 +7,7 @@
 @media (min-width: 768px) and (max-width: 959px) {
   .responsive-image {
     width: 300px;
+  }
 }
   
 @media (min-width: 960px) {
