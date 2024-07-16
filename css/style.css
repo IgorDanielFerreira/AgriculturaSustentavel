@@ -54,8 +54,7 @@ main {
 
 .nav-link {
   border: 2px solid black;
-  padding: 2px;
-  width: 100%;
+  padding: 10px;
 }
 
 .responsive-image {
