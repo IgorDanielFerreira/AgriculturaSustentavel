@@ -1,3 +1,6 @@
+  .responsive-image {
+    width: 100px;
+  }
 @media (max-width: 768px) {
   .resposive-image {
     width: 235px;
