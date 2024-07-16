@@ -34,7 +34,7 @@
   .logo1 {
     width: 80px;
     height: 80px;
-    margin-bottom: 90px;
+    margin-top: 0px;
   }
 }
 @media only screen and (min-width: 1200px) {
