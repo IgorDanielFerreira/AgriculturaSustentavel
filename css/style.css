@@ -86,6 +86,7 @@ header {
   display: flex;
   list-style: none;
   font-size: 20px;
+  width: 100%;
 }
 
 #text01 {
