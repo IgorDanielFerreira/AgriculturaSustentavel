@@ -64,10 +64,6 @@ footer {
   width: 100%;
 }
 
-.banner {
-  background-image: url('assets/images/3_20240716_191948_0002.png');
-  opacity: 10%;
-}
 img {
   display: flex;
   justify-content: center;
