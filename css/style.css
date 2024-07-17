@@ -71,7 +71,7 @@ div {
   width: 100%;
 }
 
-.responsive-image {
+img {
   display: flex;
   justify-content: center;
 }
