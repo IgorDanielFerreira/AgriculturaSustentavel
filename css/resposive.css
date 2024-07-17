@@ -1,6 +1,6 @@
 .responsive-image {
-  width: auto;
-  height: auto;
+  width: 100px;
+  height: 50px;
 }
 
 .margin-icon {
@@ -15,7 +15,7 @@ div {
 @media only screen and (max-width: 600px) {
   .responsive-image {
     width: 200px;
-    height: auto;
+    height: 100px;
   }
   
 .margin-icon {
