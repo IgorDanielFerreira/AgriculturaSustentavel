@@ -102,7 +102,7 @@ header {
   justify-content: center;
 }
 
-.img-flex {
+.container {
   display: flex;
 }
 
