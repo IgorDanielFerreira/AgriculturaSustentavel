@@ -12,6 +12,9 @@ main {
   margin: 0;
 }
 
+.container {
+  display: block;
+}
 @media only screen and (max-width: 600px) {
   .responsive-image {
     width: 200px;
@@ -29,6 +32,10 @@ div {
   
   main {
     margin: 5px;
+  }
+
+  .container {
+  display: block;
   }
 }
 
@@ -51,6 +58,10 @@ div {
   main {
     margin: 30px;
   }
+  
+  .container {
+  display: flex;
+  }
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1200px){
@@ -69,6 +80,10 @@ div {
 }
   main {
     margin: 80px;
+  }
+
+  .container {
+  display: flex;
   }
 }
 
@@ -89,5 +104,9 @@ div {
   
   main {
     margin: 90px;
+  }
+  
+  .container {
+  display: flex;
   }
 }
