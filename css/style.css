@@ -65,6 +65,10 @@ footer {
   width: 100%;
 }
 
+main {
+  margin: 0;
+}
+
 header {
   background-color: #000;
   background-size: cover;
