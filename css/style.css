@@ -64,11 +64,6 @@ footer {
   width: 100%;
 }
 
-img {
-  display: flex;
-  justify-content: center;
-}
-
 header {
   background-color: #000;
   background-size: cover;
