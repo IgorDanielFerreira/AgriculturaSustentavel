@@ -65,7 +65,7 @@ footer {
 }
 
 .banner {
-  background-image: url(assets/images/3_20240716_191948_0002.png);
+  background-image: url('assets/images/3_20240716_191948_0002.png');
   opacity: 10%;
 }
 img {
