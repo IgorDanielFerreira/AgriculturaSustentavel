@@ -28,7 +28,7 @@ div {
 }
   
   main {
-    margin: 0;
+    margin: 5px;
   }
 }
 
@@ -49,7 +49,7 @@ div {
 }
   
   main {
-    margin: 20px;
+    margin: 30px;
   }
 }
 
@@ -68,7 +68,7 @@ div {
   margin: 40px;
 }
   main {
-    margin: 40px;
+    margin: 80px;
   }
 }
 
@@ -88,6 +88,6 @@ div {
 }
   
   main {
-    margin: 60px;
+    margin: 90px;
   }
 }
