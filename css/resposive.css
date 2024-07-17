@@ -16,6 +16,7 @@
 .margin-icon {
   margin: 20px;
 }
+
 @media only screen and (max-width: 600px) {
   .responsive-image {
     width: 235px;
@@ -36,6 +37,7 @@
   margin: 40px;
 }
 }
+
 @media only screen and (min-width: 601px) and (max-width: 991px) {
   .responsive-image {
     width: 280px;
@@ -56,6 +58,7 @@
   margin: 60px;
 }
 }
+
 @media only screen and (min-width: 992px) and (max-width: 1200px){
   .responsive-image {
     width: 1290px;
@@ -76,6 +79,7 @@
   margin: 80px;
 }
 }
+
 @media only screen and (min-width: 1201px) {
   .responsive-image {
     width: 1000px;
