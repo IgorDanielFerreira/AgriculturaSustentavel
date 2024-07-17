@@ -91,7 +91,6 @@ header {
   display: flex;
   list-style: none;
   font-size: 20px;
-  margin-top: -5px;
 }
 .div-responsive-image {
   display: flex; 
