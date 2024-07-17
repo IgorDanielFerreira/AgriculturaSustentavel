@@ -54,6 +54,17 @@ main {
   padding: 20px;
 }
 
+.logo1 {
+  width: 60px;
+  height: 60px;
+}
+
+.logo2 {
+  width: 250px;
+  height: 59px;
+  margin-bottom: 1rem;
+}
+
 .nav-link {
   border: 1px solid black;
   color: #000000;
