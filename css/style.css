@@ -93,6 +93,10 @@ header {
   font-size: 20px;
   margin-top: -5px;
 }
+.div-responsive-image {
+  display: flex; 
+  justify-content: center;
+}
 
 #text01 {
   background-color: #F5FFD0;
