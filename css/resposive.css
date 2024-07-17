@@ -22,7 +22,7 @@
 
 @media only screen and (min-width: 601px) and (max-width: 991px) {
   .responsive-image {
-    width: 280px;
+    width: 80%;
     height: auto;
   }
   
@@ -34,7 +34,7 @@
 
 @media only screen and (min-width: 992px) and (max-width: 1200px){
   .responsive-image {
-    width: 250px;
+    width: 60%;
     height: auto;
 }
   
@@ -46,7 +46,7 @@
 
 @media only screen and (min-width: 1201px) {
   .responsive-image {
-    width: 800px;
+    width: 40%;
     height: auto;
   }
   
