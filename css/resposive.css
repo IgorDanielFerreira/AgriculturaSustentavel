@@ -2,101 +2,82 @@
   width: 150px;
   height: 50px;
 }
+.logo1 {
+  width: 60px;
+  height: 60px;
+}
+.logo2 {
+  width: 80px;
+  height: 80px;
+}
+.margin-icon {
+  margin: 20px;
+}
 @media only screen and (max-width: 600px) {
   .responsive-image {
     width: 235px;
     height: 210px;
   }
+  .logo1 {
+  width: 80px;
+  height: 80px;
+}
+.logo2 {
+  width: 100px;
+  height: 100px;
+}
+.margin-icon {
+  margin: 40px;
+}
 }
 @media only screen and (min-width: 601px) and (max-width: 991px) {
   .responsive-image {
     width: 280px;
     height: 100px;
   }
+  .logo1 {
+  width: 100px;
+  height: 100px;
+}
+.logo2 {
+  width: 120px;
+  height: 120px;
+}
+.margin-icon {
+  margin: 60px;
+}
 }
 @media only screen and (min-width: 992px) and (max-width: 1200px){
   .responsive-image {
     width: 1290px;
     height: 800px;
   }
+  .logo1 {
+  width: 120px;
+  height: 120px;
+}
+.logo2 {
+  width: 140px;
+  height: 140px;
+}
+.margin-icon {
+  margin: 80px;
+}
 }
 @media only screen and (min-width: 1201px) {
   .responsive-image {
     width: 1000px;
     height: 800px;
   }
-}
-.logo1 {
-  width: 80px;
-  height: 80px;
-}
-@media only screen and (max-width: 600px) {
   .logo1 {
-    width: 100px;
-    height: 100px;
-  }
-}
-@media only screen and (min-width: 601px) and (max-width: 991px) {
-  .logo1 {
-    width:  120px;
-    height: 120px;
-  }
-}
-@media only screen and (min-width: 992px) and (max-width: 1200px){
-  .logo1 {
-    width: 140px;
-    height: 140px;
-  }
-}
-@media only screen and (min-width: 1201px) {
-  .logo1 {
-    width: 160px;
-    height: 160px;
-  }
+  width: 140px;
+  height: 140px;
 }
 .logo2 {
-  width: 250px;
-  height: 70px;
+  width: 160px;
+  height: 160px;
 }
-@media only screen and (max-width: 600px) {
-  .logo2 {
-    width: 300px;
-    height: 80px;
-  }
+.margin-icon {
+  margin: 100px;
 }
-@media only screen and (min-width: 601px) and (max-width: 991px) {
-  .logo2 {
-    width: 350px;
-    height: 90px;
-  }
-}
-@media only screen and (min-width: 992px) and (max-width: 1200px){
-  .logo2 {
-    width: 400px;
-    height: 100px;
-  }
-}
-@media only screen and (min-width: 1201px) {
-  .logo2 {
-    width: 450px;
-    height: 110px;
-  }
-}
-.icon-margin {
-  margin: 5px;
-}
-@media only screen and (max-width: 600px) {
-  .icon-margin {
-    margin: 6px;
-  }
-}
-@media only screen and (min-width: 601px) and (max-width: 991px) {
-  .icon-margin {
-    margin: 10px;
-  }
-}
-@media only screen and (min-width: 992px) and (max-width: 1200px){
-  .icon-margin {
-    margin: 14px;
-    }
 }
