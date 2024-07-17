@@ -102,10 +102,6 @@ header {
   justify-content: center;
 }
 
-.container {
-  display: flex;
-}
-
 #text01 {
   background-color: #F5FFD0;
   padding: 10px;
