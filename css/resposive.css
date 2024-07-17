@@ -8,7 +8,7 @@
   width: 16px;
 }
 
-div {
+main {
   margin: 0;
 }
 
@@ -26,6 +26,10 @@ div {
 div {
   margin: 1px;
 }
+  
+  main {
+    margin: 0;
+  }
 }
 
 @media only screen and (min-width: 601px) and (max-width: 991px) {
@@ -43,6 +47,10 @@ div {
 div {
   margin: 15px;
 }
+  
+  main {
+    margin: 20px;
+  }
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1200px){
@@ -59,6 +67,9 @@ div {
 div {
   margin: 40px;
 }
+  main {
+    margin: 40px;
+  }
 }
 
 @media only screen and (min-width: 1201px) {
@@ -75,4 +86,8 @@ div {
 div {
   margin: 60px;
 }
+  
+  main {
+    margin: 60px;
+  }
 }
