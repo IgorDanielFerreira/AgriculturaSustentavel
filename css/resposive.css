@@ -20,6 +20,10 @@
     .container-ul {
       display: block;
     }
+
+  .div-resposive-image-container {
+    display: none;
+  }
   
 div {
   margin: 1px;
@@ -55,6 +59,10 @@ div {
   .container-ul {
       display: flex;
       flex-wrap: nowrap
+  }
+
+  .div-responsive-image {
+    display: none;
   }
   
 div {
