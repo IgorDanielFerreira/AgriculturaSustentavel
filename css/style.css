@@ -94,6 +94,11 @@ footer {
 .content1 {
   flex-direction: row;
 }
+
+.div-image-content1 {
+  flex-direction: row;
+}
+
 .line {
   width: 100%;
   height: 2px;
