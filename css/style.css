@@ -117,8 +117,9 @@ footer {
 .banner-image {
   background-image: url('../assets/images/3_20240716_191948_0002.png');
   padding: 75px;
-  font-size: 24px;
   text-align: center;
+  font-size: 30px;
+  color: #6FB132;
 }
 
 #text01 {
