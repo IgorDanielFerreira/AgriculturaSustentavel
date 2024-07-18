@@ -92,11 +92,7 @@ footer {
 }
 
 .content1 {
-  align-items: flex-start;
-}
-
-.div-image-content1 {
-  flex-direction: row;
+  flex-wrap: wrap;
 }
 
 .line {
