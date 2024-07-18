@@ -85,6 +85,9 @@ footer {
 
 .container {
   display: block;
+}
+
+.container ul {
   flex-direction: row;
 }
 
