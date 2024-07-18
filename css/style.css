@@ -85,8 +85,12 @@ footer {
 
 .container {
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   flex-wrap: wrap;
+}
+
+.container ul {
+  flex-direction: row;
 }
 
 .line {
