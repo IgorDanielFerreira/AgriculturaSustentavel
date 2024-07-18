@@ -84,11 +84,9 @@ footer {
 }
 
 .container {
-  display: block;
-}
-
-.container ul {
+  display: flex;
   flex-direction: row;
+  flex-wrap: wrap;
 }
 
 .line {
