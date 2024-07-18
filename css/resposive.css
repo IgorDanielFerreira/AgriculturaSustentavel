@@ -17,7 +17,7 @@
     display: block;
   }
 
-    .container ul {
+    .container-ul {
       display: block;
     }
   
@@ -52,7 +52,7 @@ div {
     flex-wrap: wrap;
   }
 
-  .container ul {
+  .container-ul {
       display: flex;
       flex-wrap: nowrap
   }
