@@ -112,6 +112,9 @@ footer {
   justify-content: center;
 }
 
+.banner-image {
+  background-image: url('assets/images/3_20240716_191948_0002.png');
+}
 #text01 {
   background-color: #F5FFD0;
   padding: 10px;
