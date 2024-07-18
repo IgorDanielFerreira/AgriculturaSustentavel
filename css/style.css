@@ -88,7 +88,7 @@ footer {
   flex-wrap: wrap;
 }
 
-.container ul {
+.container-ul {
   display: flex;
   flex-wrap: nowrap;
 }
