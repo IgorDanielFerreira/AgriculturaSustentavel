@@ -93,6 +93,9 @@ footer {
   flex-wrap: nowrap;
 }
 
+.content1 {
+  flex-direction: column
+}
 .line {
   width: 100%;
   height: 2px;
