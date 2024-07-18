@@ -89,11 +89,16 @@ footer {
 }
 
 .container-ul {
-  
+  display: flex;
+}
+
+.container-ul li {
+  margin: 15px;
 }
 
 .content1 {
-  
+  width: 350px;
+  margin-left: 20px;
 }
 
 .line {
