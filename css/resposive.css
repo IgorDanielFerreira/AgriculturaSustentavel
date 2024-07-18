@@ -15,6 +15,7 @@
 
   .container {
     display: block;
+    flex-direction: column;
   }
 
     .container-ul {
@@ -61,7 +62,7 @@ div {
 
   .container {
     display: flex;
-    flex-wrap: wrap;
+    flex-direction: column;
   }
 
   .container-ul {
