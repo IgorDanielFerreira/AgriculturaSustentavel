@@ -92,7 +92,7 @@ footer {
 }
 
 .content1 {
-  flex-direction: row;
+  align-items: flex-start;
 }
 
 .div-image-content1 {
