@@ -19,9 +19,11 @@
 
     .container-ul {
       display: block;
-      margin: 10px;
     }
 
+  .container-ul li {
+    margin: 10px;
+  }
   .div-resposive-image-container {
     display: none;
   }
