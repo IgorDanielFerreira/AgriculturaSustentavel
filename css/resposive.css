@@ -14,9 +14,12 @@
   }
 
   .container {
-  display: block;
+    display: block;
   }
-  
+
+    .container ul {
+      display: block;
+    }
 div {
   margin: 1px;
 }
@@ -46,6 +49,11 @@ div {
   .container {
     display: flex;
     flex-wrap: wrap;
+  }
+
+  .container ul {
+      display: flex;
+      flex-wrap: nowrap
   }
   
 div {
