@@ -21,6 +21,10 @@
       display: block;
     }
 
+  .content1 {
+    display: block;
+  }
+
   .container-ul li {
     margin: 20px;
   }
