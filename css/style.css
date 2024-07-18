@@ -85,14 +85,15 @@ footer {
 
 .container {
   display: flex;
+  justify-content: center;
 }
 
 .container-ul {
-  flex-wrap: nowrap;
+  
 }
 
 .content1 {
-  flex-wrap: wrap;
+  
 }
 
 .line {
