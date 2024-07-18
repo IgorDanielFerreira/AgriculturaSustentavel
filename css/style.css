@@ -85,7 +85,7 @@ footer {
 
 .container {
   display: block;
-  flex-direction: column;
+  flex-direction: row;
 }
 
 .line {
