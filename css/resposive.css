@@ -116,7 +116,12 @@ div {
   margin: 80px;
   width: 22px;
 }
-
+  
+.logo-name {
+  top: 40px;
+  margin-left: 0;
+}
+  
   .iconl {
     width: 30px;
     height: auto;
