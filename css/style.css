@@ -63,13 +63,13 @@ footer {
 .logo1 {
   width: 60px;
   height: 60px;
-  margin-top: -15px;
+  margin-top: 0px;
 }
 
-.logo2 {
-  width: 250px;
-  height: 59px;
-  margin-bottom: 1rem;
+.Site-name {
+  width: 300px;
+  height: 60px;
+  color: #6FB132;
 }
 
 .nav-link {
