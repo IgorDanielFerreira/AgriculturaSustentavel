@@ -71,7 +71,7 @@ footer {
 }
 
 .menu-logo {
- display: flex;
+ display: block;
  top: 0;
  margin-left: 0;
 }
