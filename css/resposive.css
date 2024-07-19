@@ -201,6 +201,10 @@ div {
     witdh: 500px;
   }
   
+  div-responsive-image {
+    display: none;
+  }
+  
 div {
   margin: 60px;
 }
