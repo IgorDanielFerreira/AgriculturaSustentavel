@@ -66,6 +66,9 @@ footer {
   margin-top: 0;
 }
 
+menu-logo {
+ display: flex;
+}
 .nav-link {
   border: 1px solid black;
   color: #000;
