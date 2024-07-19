@@ -78,6 +78,7 @@ footer {
 .menu {
   background-color: #6FB132;
   list-style: none;
+  display: flex;
   margin-top: 10px;
   font-size: 20px;
   height: 40px;
@@ -85,7 +86,6 @@ footer {
 }
 
 .menu li {
-  display: flex;
   justify-content: center;
 }
 
