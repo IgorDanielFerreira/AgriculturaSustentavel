@@ -79,6 +79,13 @@ footer {
   width: 100%;
 }
 
+.fa-solid fa-bars {
+  margin-top: 0;
+  margin-right: 0;
+  width: 59px;
+  height: 59px;
+}
+
 .padding {
   margin-top: 120px;
 }
