@@ -127,6 +127,7 @@ menu-logo {
   justify-content: center;
   display: flex;
   list-style: none;
+  height: 80px;
   font-size: 20px;
 }
 
