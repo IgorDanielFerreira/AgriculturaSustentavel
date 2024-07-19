@@ -172,6 +172,11 @@ div {
   width: 24px;
 }
 
+  .logo-name {
+  top: 40px;
+  margin-left: 0;
+  }
+  
   .iconl {
     width: 35px;
     height: auto;
