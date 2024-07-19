@@ -63,7 +63,6 @@ footer {
 .logo-name {
   width: 360px;
   height: auto;
-  margin-top: 0;
 }
 
 .fa-solid fa-bars {
@@ -86,7 +85,7 @@ footer {
 }
 
 .menu li {
-  justify-content: center;
+  justifycontent: center;
 }
 
 .nav-link {
@@ -144,8 +143,6 @@ footer {
 .banner-image {
   background-image: url('../assets/images/3_20240716_191948_0002.png');
   padding: 75px;
-  top: 0;
-  margin-left: 0;
 }
 
 .banner-image p {
