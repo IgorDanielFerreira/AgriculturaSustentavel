@@ -45,8 +45,8 @@ div {
 
 @media only screen and (min-width: 601px) and (max-width: 991px) {
   .responsive-image {
-    width: 380px;
-    height: auto;
+    width: 370px;
+    height: 120px;
   }
   
 .margin-icon {
@@ -98,6 +98,11 @@ div {
   main {
     margin: 30px;
   }
+
+  i {
+    margin-left: 10px;
+  }
+  
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1200px){
