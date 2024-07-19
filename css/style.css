@@ -123,6 +123,7 @@ menu-logo {
 }
 
 .menu {
+  justify-content: center;
   background-color: #6FB132;
   margin-top: 10px;
   display: flex;
@@ -130,10 +131,10 @@ menu-logo {
 }
 
 .menu-ul {
-  justify-content: center;
   list-style: none;
   font-size: 20px;
 }
+
 .banner-image {
   background-image: url('../assets/images/3_20240716_191948_0002.png');
   padding: 75px;
