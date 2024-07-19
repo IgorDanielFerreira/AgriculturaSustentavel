@@ -124,14 +124,16 @@ menu-logo {
 
 .menu {
   background-color: #6FB132;
-  justify-content: center;
   margin-top: 10px;
   display: flex;
-  list-style: none;
   height: 40px;
-  font-size: 20px;
 }
 
+.menu-ul {
+  justify-content: center;
+  list-style: none;
+  font-size: 20px;
+}
 .banner-image {
   background-image: url('../assets/images/3_20240716_191948_0002.png');
   padding: 75px;
