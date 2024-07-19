@@ -98,7 +98,7 @@ footer {
 }
 
 .content1 {
-  width: 350px;
+  width: 300px;
   margin-left: 20px;
 }
 
@@ -106,8 +106,6 @@ footer {
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 350px;
-  height: 180px;
 }
 
 .div-responsive-image {
