@@ -118,13 +118,13 @@ menu-logo {
 .line {
   width: 100%;
   height: 2px;
+  display: inline block;
   background-color: #CCC;
   margin: 20px 0;
 }
 
 .menu {
   justify-content: center;
-  display: inline block;
   background-color: #6FB132;
   margin-top: 10px;
   height: 40px;
