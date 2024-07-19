@@ -85,6 +85,10 @@ footer {
   width: 100%;
 }
 
+.menu li {
+  display: flex;
+}
+
 .nav-link {
   border: 1px solid black;
   color: #000;
