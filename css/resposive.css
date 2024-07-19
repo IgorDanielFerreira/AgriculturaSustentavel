@@ -67,18 +67,18 @@ div {
 
   .container-ul {
       display: flex;
-      flex-wrap: nowrap
   }
 
   .content1 {
-    flex-direction: row;
+    width: 300px;
+    height: 150px;
   }
   
 .div-resposive-image-container {
   display: flex;
   justify-content: center;
   align-items: center;
-	width: 250px;
+  width: 250px;
   height: 125px;
 }
   
