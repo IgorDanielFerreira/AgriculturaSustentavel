@@ -125,9 +125,10 @@ menu-logo {
 .menu {
   background-color: #6FB132;
   justify-content: center;
+  margin-top: 10px;
   display: flex;
   list-style: none;
-  height: 80px;
+  height: 40px;
   font-size: 20px;
 }
 
