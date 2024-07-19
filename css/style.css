@@ -101,6 +101,16 @@ footer {
   margin-left: 20px;
 }
 
+.div-resposive-image-container {
+  display: flex; 
+  justify-content: center;
+}
+
+.div-responsive-image {
+  display: flex; 
+  justify-content: center;
+}
+
 .line {
   width: 100%;
   height: 2px;
@@ -114,11 +124,6 @@ footer {
   display: flex;
   list-style: none;
   font-size: 20px;
-}
-
-.div-responsive-image {
-  display: flex; 
-  justify-content: center;
 }
 
 .banner-image {
