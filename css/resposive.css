@@ -17,7 +17,7 @@
   }
   
   .content-ul {
-    display: flex;
+    text-align: justify;
   }
   .content1 {
     align-items: center;
