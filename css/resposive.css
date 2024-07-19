@@ -197,6 +197,10 @@ div {
   align-items: center;
 }
   
+  .responsive-image-container {
+    witdh: 500px;
+  }
+  
 div {
   margin: 60px;
 }
