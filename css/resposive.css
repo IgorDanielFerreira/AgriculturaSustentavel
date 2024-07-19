@@ -15,7 +15,10 @@
 
   .container {
   }
-
+  
+  .content-ul {
+    display: flex;
+  }
   .content1 {
     align-items: center;
   }
