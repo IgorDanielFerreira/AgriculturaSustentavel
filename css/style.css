@@ -67,7 +67,7 @@ footer {
 }
 
 menu-logo {
- display: flex;
+ display: inline-block;
 }
 
 .fa-solid fa-bars {
@@ -124,7 +124,6 @@ menu-logo {
 }
 
 .menu {
-  display: inline-block;
   background-color: #6FB132;
   margin-top: 10px;
   width: 100%;
