@@ -124,7 +124,7 @@ menu-logo {
 }
 
 .menu {
-  display: flex;
+  display: inline-block;
   background-color: #6FB132;
   margin-top: 10px;
   width: 100%;
@@ -132,7 +132,6 @@ menu-logo {
 }
 
 .menu-ul {
-  display: inline-block;
   list-style: none;
   font-size: 20px;
 }
