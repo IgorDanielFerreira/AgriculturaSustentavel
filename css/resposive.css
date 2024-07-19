@@ -24,7 +24,7 @@
 
   .content1 {
     display: block;
-    margin-right: 20px;
+    align-items: center;
   }
 
   .container-ul li {
