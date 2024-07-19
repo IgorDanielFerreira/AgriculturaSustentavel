@@ -124,7 +124,7 @@ menu-logo {
 }
 
 .menu {
-  justify-content: center;
+  display: flex;
   background-color: #6FB132;
   margin-top: 10px;
   height: 40px;
