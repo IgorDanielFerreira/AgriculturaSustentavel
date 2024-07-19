@@ -17,16 +17,12 @@
     display: block;
   }
 
-    .container-ul {
-      display: block;
-    }
-
   .content1 {
-    display: block;
     align-items: center;
   }
 
   .container-ul li {
+    display: block;
     margin: 20px;
   }
   
