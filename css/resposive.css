@@ -21,8 +21,9 @@
     align-items: center;
   }
 
-  .container-ul li {
+  .content-ul li {
     display: block;
+    text-align: justify;
     margin: 20px;
   }
   
