@@ -72,7 +72,7 @@ footer {
 }
 
 .menu-logo {
- display: inline-block;
+ display: flex;
 }
 
 .menu {
