@@ -63,7 +63,7 @@ div {
   .container {
     display: flex;
     justify-content: center;
-    flex-direction: column;
+    flex-wrap: wrap;
   }
 
   .container-ul {
