@@ -45,7 +45,7 @@ div {
 
 @media only screen and (min-width: 601px) and (max-width: 991px) {
   .responsive-image {
-    width: 370px;
+    width: 250px;
     height: 120px;
   }
   
@@ -67,7 +67,7 @@ div {
   }
 
   .container-ul {
-      display: flex;
+    display: flex;
   }
   
 .container-ul li {
@@ -83,8 +83,6 @@ div {
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 250px;
-  height: 125px;
 }
   
   .div-responsive-image {
