@@ -86,14 +86,14 @@ footer {
 .container {
   display: flex;
   justify-content: center;
-  flex-wrap: wrap;
+  flex-direction: column;
 }
 
-.container-ul {
+.content-ul {
   display: flex;
 }
 
-.container-ul li {
+.content li {
   margin: 15px;
 }
 
