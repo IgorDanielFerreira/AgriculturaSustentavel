@@ -102,8 +102,11 @@ footer {
 }
 
 .div-resposive-image-container {
-  display: flex; 
+  display: flex;
   justify-content: center;
+  align-items: center;
+  width: 350px;
+  height: 180px;
 }
 
 .div-responsive-image {
