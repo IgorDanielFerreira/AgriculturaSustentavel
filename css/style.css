@@ -154,6 +154,10 @@ footer {
   box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.7);
 }
 
+.logo-footer {
+  width: 200px;
+}
+
 #text01 {
   background-color: #FFEEC8;
   padding: 10px;
