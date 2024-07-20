@@ -26,16 +26,19 @@ h1 {
 }
   
 h2 {
+  text-align: left;
   font-size: 22px;
   color: #323232;
 }
 
 h3 {
+  text-align: left;
   font-size: 20px;
   color: #2B2B2B;
 }
 
 h4 {
+  text-align: left;
   font-size: 18px;
   color: #161616;
 }
