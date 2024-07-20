@@ -151,7 +151,7 @@ footer {
   text-align: center;
   font-size: 16px;
   color: #6FB132;
-  box-shadow: 5px 3px 10px black;
+  box-shadow: 5px 3px 10px rgba(0, 0, 0, 0.2);
 }
 
 #text01 {
