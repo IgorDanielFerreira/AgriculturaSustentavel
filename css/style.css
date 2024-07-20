@@ -132,6 +132,10 @@ footer p {
   justify-content: center;
 }
 
+.container2 {
+  display: flex;
+}
+
 .background-color-container {
   background-color: #F5FFD0;
   margin: 15px;
