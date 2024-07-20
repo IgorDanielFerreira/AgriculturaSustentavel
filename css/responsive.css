@@ -43,6 +43,10 @@
    display: block;
  }
   
+  .all-list li {
+    margin: 20px;
+  }
+  
 div {
   margin: 1px;
 }
