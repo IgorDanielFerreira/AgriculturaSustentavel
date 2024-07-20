@@ -172,6 +172,10 @@ footer p {
   box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.7);
 }
 
+.all-list {
+  margin: 15px;
+}
+
 .logo-footer {
   width: 200px;
   margin-left: 0;
