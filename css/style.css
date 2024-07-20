@@ -147,6 +147,10 @@ footer p {
   background-color: #A4FFE9;
 }
 
+.list-title2 {
+  justify-content: center;
+}
+
 .line {
   width: 100%;
   height: 2px;
