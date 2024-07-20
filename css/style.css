@@ -166,6 +166,11 @@ footer p {
   top: 0;
 }
 
+.responsive-image {
+  width: 200px;
+  height: auto;
+}
+
 #text01 {
   background-color: #FFEEC8;
   padding: 10px;
