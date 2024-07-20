@@ -165,23 +165,16 @@ footer p {
   top: 0;
 }
 
-#text01 {
-  background-color: #FFEEC8;
-  padding: 10px;
-}
-
-#text02 {
-  background-color: #E6FF8E;
-  padding: 10px;
-}
-
-#text04 {
-  background-color: #DCDEDA;
-  padding: 10px;
-}
-
 #mark-color {
   color: #5abeaf;
+  }
+
+#mark-color1 {
+  color: #FFFDB9;
+  }
+
+#mark-color2 {
+  color: #
   }
 
 #Copyright {
