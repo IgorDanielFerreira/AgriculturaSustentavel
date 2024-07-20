@@ -57,6 +57,11 @@ header {
   width: 100%;
 }
 
+header i {
+  margin-top: 0;
+  margin-right: 0;
+}
+
 footer {
   background-color: #000;
   height: 200px;
