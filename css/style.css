@@ -171,9 +171,11 @@ footer p {
 }
 
 .all-list {
-  margin: 15px;
-  padding: 5px;
   justify-content: center;
+}
+
+.all-list li {
+  margin: 20px;
 }
 
 .logo-footer {
