@@ -55,7 +55,7 @@ header {
 }
 
 footer {
-  background-color: #FFEEC8;
+  background-color: #000;
   text-align: center;
   padding: 20px;
 }
@@ -155,7 +155,7 @@ footer {
 }
 
 #text01 {
-  background-color: #F5FFD0;
+  background-color: #FFEEC8;
   padding: 10px;
 }
 
@@ -167,10 +167,6 @@ footer {
 #text04 {
   background-color: #DCDEDA;
   padding: 10px;
-}
-
-#bgln {
-  background-color: #E3E3E3;
 }
 
 #Copyright {
