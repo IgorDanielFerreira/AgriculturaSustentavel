@@ -22,25 +22,25 @@ h2, h3, h4, h5, h6 {
 h1 {
   text-align: left;
   font-size: 24px;
-  color: #A9A9A9;
+  color: #4F4F4F;
 }
   
 h2 {
   text-align: left;
   font-size: 22px;
-  color: #C0C0C0;
+  color: #696969;
 }
 
 h3 {
   text-align: left;
   font-size: 20px;
-  color: #D3D3D3;
+  color: #808080;
 }
 
 h4 {
   text-align: left;
   font-size: 18px;
-  color: #DCDCDC;
+  color: #A9A9A9;
 }
 
 main {
