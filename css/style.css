@@ -180,6 +180,10 @@ footer p {
   padding: 10px;
 }
 
+#mark-color {
+  color: #5abeaf;
+  }
+
 #Copyright {
   color: #000;
   font-size: 16px;
