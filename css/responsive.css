@@ -82,7 +82,7 @@ div {
   }
   
   .content1 {
-    width: 300px;
+    width: 290px;
     font-size: 18px;
     margin-left: -150px;
   }
@@ -90,11 +90,10 @@ div {
 .div-responsive-image-container {
   display: flex;
   align-items: center;
-  width: 250px;
 }
   
   .responsive-image-container {
-    width: 450px;
+    width: 350px;
   }
   
   .div-responsive-image {
