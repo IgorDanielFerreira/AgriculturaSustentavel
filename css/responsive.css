@@ -21,22 +21,22 @@
     justify-content: center;
   }
   
-  .content-ul {
-    display: flex;
-    flex-wrap: wrap;
-  }
-  
   .text-container {
     width: 360px;
     text-align: center;
   }
 
+  .image-pc {
+    display: none;
+  }
+  
   .content-ul li {
     margin: 30px;
   }
   
-  .image-pc {
-    display: none;
+  .content-ul {
+    display: flex;
+    flex-wrap: wrap;
   }
   
  .container2 {
@@ -76,15 +76,6 @@ div {
     flex-wrap: wrap;
     padding: 0;
   }
-
-  .container-ul {
-    display: block;
-    justify-content: inline-block;
-  }
-  
-.container-ul li {
-    margin: 40px;
-}
   
   .text-container{
     width: 300px;
@@ -99,6 +90,15 @@ div {
   .dimension-image-pc {
     width: 460px;
   }
+  
+  .container-ul {
+    display: block;
+    justify-content: inline-block;
+  }
+  
+.container-ul li {
+    margin: 40px;
+}
   
   .div-responsive-image {
     display: none;
@@ -151,7 +151,21 @@ div {
     display: flex;
     flex-wrap: wrap;
   }
-
+  
+  .text-container {
+    width: 400px;
+    font-size: 20px;
+  }
+  
+.image-pc {
+  display: flex;
+  align-items: center;
+}
+  
+  .dimension-image-pc {
+    width: 450px;
+  }
+  
   .container-ul {
     display: flex;
     border: 1px solid black;
@@ -159,21 +173,7 @@ div {
   
 .container-ul li {
     margin: 30px;
-  }
-  
-  .content1 {
-    width: 400px;
-    font-size: 20px;
-  }
-  
-.div-responsive-image-container {
-  display: flex;
-  align-items: center;
 }
-  
-  .responsive-image-container {
-    width: 450px;
-  }
   
   .div-responsive-image {
     display: none;
@@ -216,29 +216,29 @@ div {
     display: flex;
     justify-content: center;
     flex-wrap: nowrap;
+ }
+  
+  .text-container {
+    width: 300px;
+    font-size: 22px;
   }
-
+  
+.image-pc {
+  display: flex;
+  align-items: center;
+}
+  
+  .dimension-image-pc {
+    witdh: 350px;
+  }
+  
   .container-ul {
     display: flex;
   }
   
 .container-ul li {
     margin: 30px;
-  }
-  
-  .content1 {
-    width: 300px;
-    font-size: 22px;
-  }
-  
-.div-responsive-image-container {
-  display: flex;
-  align-items: center;
 }
-  
-  .responsive-image-container {
-    witdh: 350px;
-  }
   
   .div-responsive-image {
     display: none;
