@@ -169,6 +169,10 @@ div {
   align-items: center;
 }
   
+  .div-responsive-image {
+    width: 400px;
+  }
+  
   contain2 {
     display: flex;
   }
