@@ -87,10 +87,10 @@ div {
   }
   
   .content1 {
-    width: 50%;
+    width: 300px;
     height: 150px;
     font-size: 18px;
-    margin-left: 0;
+    padding-left: 0;
   }
   
 .div-responsive-image-container {
@@ -99,7 +99,7 @@ div {
 }
   
   .responsive-image-container {
-    width: 50%;
+    width: 350px;;
   }
   
   .div-responsive-image {
