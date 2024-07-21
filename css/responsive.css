@@ -238,11 +238,11 @@ div {
     witdh: 350px;
   }
   
-  div-responsive-image {
+  .div-responsive-image {
     display: none;
   }
   
-  container2 {
+  .container2 {
     display: flex;
   }
   
