@@ -74,6 +74,7 @@ div {
 
   .container {
     flex-wrap: wrap;
+    flex-direction: column;
     padding: 0;
   }
   
