@@ -75,6 +75,7 @@ footer {
 
 footer p {
   text-align: left;
+  top: 3px;
 }
 
 .logo-name {
@@ -172,7 +173,6 @@ mark-color {
   }
 
 #Copyright {
-  color: #6FB132;
   font-size: 16px;
   font-weight: bold;
 }
