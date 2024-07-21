@@ -84,6 +84,7 @@ div {
   .content1 {
     width: 300px;
     font-size: 18px;
+    padding: 100px;
     margin-left: -100px;
   }
   
