@@ -25,7 +25,7 @@
     display: none;
   }
   
-  logo-footer {
+  .logo-footer {
     margin: -20px;
  }
 }
@@ -62,6 +62,10 @@
   
   .image-mobile {
     display: none;
+  }
+  
+  .logo-footer {
+    margin: -65px;
   }
   
   main {
@@ -115,6 +119,10 @@
     display: none;
   }
   
+  .logo-footer {
+    margin: -160px;
+  }
+  
   main {
     margin: 140px;
   }
@@ -159,6 +167,10 @@
   
   .image-mobile {
     display: none;
+  }
+  
+  .logo-footer {
+    margin: -180px;
   }
   
   main {
