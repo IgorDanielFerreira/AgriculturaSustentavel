@@ -119,10 +119,11 @@
 }
 
   .menu-logo {
-  margin-left: 0;
-  display: flex;
-  justify-content: space-between;
-  align-items: center
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 0;
+    padding-inline: 20px;
   }
   
   .iconl {
