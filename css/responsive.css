@@ -90,10 +90,11 @@ div {
 .div-responsive-image-container {
   display: flex;
   align-items: center;
+  width: 350px;
 }
   
   .responsive-image-container {
-    width: 350px;
+    
   }
   
   .div-responsive-image {
