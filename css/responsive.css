@@ -57,10 +57,6 @@ div {
   align-items: center;
 }
   
-  .dimension-image-pc {
-    width: 460px;
-  }
-  
   #list-pc {
    display: flex;
   }
@@ -106,10 +102,6 @@ div {
   display: flex;
   align-items: center;
 }
-  
-  .dimension-image-pc {
-    width: 450px;
-  }
   
   #list-pc {
     display: flex;
@@ -162,10 +154,6 @@ div {
   display: flex;
   align-items: center;
 }
-  
-  .dimension-image-pc {
-    witdh: 350px;
-  }
   
   #list-pc {
     display: flex;
