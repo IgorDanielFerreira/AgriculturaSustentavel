@@ -32,7 +32,7 @@
 
 @media only screen and (min-width: 601px) and (max-width: 991px) {
   .responsive-image {
-    width: 420px;
+    width: 400px;
     height: auto;
   }
   
