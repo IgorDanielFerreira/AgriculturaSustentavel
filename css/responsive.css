@@ -75,6 +75,7 @@ div {
   .container {
     display: flex;
     flex-wrap: wrap;
+    padding: 0;
   }
 
   .container-ul {
@@ -82,8 +83,6 @@ div {
   }
   
 .container-ul li {
-    margin: 20px;
-    padding: 20px;
     border: 1px solid black;
   }
   
@@ -91,7 +90,6 @@ div {
     width: 300px;
     height: 150px;
     font-size: 18px;
-    padding: 0;
   }
   
 .div-responsive-image-container {
@@ -100,7 +98,7 @@ div {
 }
   
   .responsive-image-container {
-    width: 350px;;
+    width: 350px;
   }
   
   .div-responsive-image {
