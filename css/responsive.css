@@ -26,7 +26,7 @@
     flex-wrap: wrap;
   }
   
-  .content1 {
+  .text-container {
     width: 360px;
     text-align: center;
   }
@@ -35,7 +35,7 @@
     margin: 30px;
   }
   
-  .div-responsive-image-container {
+  .image-pc {
     display: none;
   }
   
@@ -86,17 +86,17 @@ div {
     margin: 40px;
 }
   
-  .content1 {
+  .text-container{
     width: 300px;
     font-size: 18px;
   }
   
-.div-responsive-image-container {
+.image-pc {
   display: flex;
   align-items: center;
 }
   
-  .responsive-image-container {
+  .dimension-image-pc {
     width: 460px;
   }
   
