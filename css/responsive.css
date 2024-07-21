@@ -2,8 +2,6 @@
   .responsive-image {
     width: 376px;
     height: auto;
-    display: flex;
-    justify-content: center;
   }
   
 .logo-name {
@@ -18,7 +16,11 @@
     width: 360px;
     margin: -3px;
   }
-
+  
+  .image-mobile {
+    text-align: center;
+  }
+  
   .image-pc {
     display: none;
   }
