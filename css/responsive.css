@@ -225,7 +225,7 @@ div {
   
   .content1 {
     width: 300px;
-    margin-left: 20px;
+    font-size: 22px;
   }
   
 .div-responsive-image-container {
@@ -235,7 +235,7 @@ div {
 }
   
   .responsive-image-container {
-    witdh: 500px;
+    witdh: 350px;
   }
   
   div-responsive-image {
