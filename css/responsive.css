@@ -86,7 +86,7 @@ div {
   }
   
   .content1 {
-    width: 300px;
+    width: 50%;
     height: 150px;
     font-size: 18px;
   }
@@ -97,7 +97,7 @@ div {
 }
   
   .responsive-image-container {
-    width: 350px;
+    width: 50%;
   }
   
   .div-responsive-image {
