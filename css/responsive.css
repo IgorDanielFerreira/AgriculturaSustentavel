@@ -32,7 +32,7 @@
   }
 
   .content-ul li {
-    margin: 20px;
+    margin: 30px;
   }
   
   .div-responsive-image-container {
@@ -84,9 +84,8 @@ div {
   
   .content1 {
     width: 300px;
-    justify-content: center;
+    padding-right: 0;
     font-size: 18px;
-    margin-left: 0;
   }
   
 .div-responsive-image-container {
@@ -98,7 +97,6 @@ div {
   
   .responsive-image-container {
     width: 450px;
-    margin-right: 0;
   }
   
   .div-responsive-image {
