@@ -39,19 +39,15 @@ div {
     width: 450px;
   }
   
-  .recommendation i {
+  .margin-icon i {
   margin-right: 28px;
   }
   
- #margin-icon {
-   margin-right: 20px;
- }
-
   .container {
     display: flex;
   }
   
-  .text-container{
+  .text-container {
     width: 300px;
     font-size: 18px;
   }
@@ -97,14 +93,9 @@ div {
     width: 500px;
  }
   
-  .recommendation i {
+  .margin-icon i {
   margin-right: 40px;
   }
-  
-.margin-icon {
-  margin: 80px;
-  width: 22px;
-}
   
 .menu-logo {
   margin-top: -140px;
