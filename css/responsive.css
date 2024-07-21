@@ -98,6 +98,7 @@ div {
   
   .responsive-image-container {
     width: 450px;
+    margin-right: 0;
   }
   
   .div-responsive-image {
