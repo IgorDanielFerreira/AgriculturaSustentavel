@@ -25,12 +25,8 @@
    display: block;
  }
   
-div {
-  margin: 1px;
-}
-  
   main {
-    margin: 5px;
+    margin: 25px;
   }
 }
 
@@ -64,13 +60,9 @@ div {
   .image-mobile {
     display: none;
   }
-
-div {
-  margin: 15px;
-}
   
   main {
-    margin: 30px;
+    margin: 45px;
   }
 
 }
@@ -112,7 +104,7 @@ div {
   }
   
   main {
-    margin: 80px;
+    margin: 140px;
   }
 }
 
@@ -160,6 +152,6 @@ div {
   }
   
   main {
-    margin: 90px;
+    margin: 160px;
   }
 }
