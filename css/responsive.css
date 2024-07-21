@@ -69,9 +69,7 @@ div {
   }
 
   .container {
-    display: flex;
-    justify-content: center;
-    flex-wrap: nowrap;
+    display: inline-block;
   }
 
   .container-ul {
