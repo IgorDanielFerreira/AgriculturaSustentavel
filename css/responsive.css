@@ -136,7 +136,7 @@ div {
 }
   
 .menu-logo {
-  top: -140px;
+  margin-top: -140px;
   margin-left: 0;
 }
   
@@ -155,17 +155,21 @@ div {
   }
   
 .container-ul li {
-    margin: 20px;
+    margin: 30px;
   }
   
   .content1 {
-    width: 400px;
+    width: 350px;
   }
   
 .div-responsive-image-container {
   display: flex;
   align-items: center;
 }
+  
+  .responsive-image-container {
+    width: 350px;
+  }
   
   .div-responsive-image {
     display: none;
