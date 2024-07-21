@@ -82,8 +82,8 @@ div {
     width: 460px;
   }
   
-  .all-list {
-   
+  #list-pc {
+   display: flex;
   }
   
   .image-mobile {
@@ -152,8 +152,8 @@ div {
     width: 450px;
   }
   
-  .all-list {
-    
+  #list-pc {
+    display: flex;
   }
   
   .image-mobile {
@@ -213,8 +213,8 @@ div {
     witdh: 350px;
   }
   
-  .all-list {
-    
+  #list-pc {
+    display: flex;
   }
   
   .image-mobile {
