@@ -111,10 +111,6 @@ div {
     display: none;
   }
   
-div {
-  margin: 40px;
-}
-  
   main {
     margin: 80px;
   }
@@ -162,10 +158,6 @@ div {
   .image-mobile {
     display: none;
   }
-  
-div {
-  margin: 60px;
-}
   
   main {
     margin: 90px;
