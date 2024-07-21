@@ -84,13 +84,13 @@ div {
   .content1 {
     width: 290px;
     font-size: 18px;
-    margin-left: -50px;
+    margin-left: -150px;
   }
   
 .div-responsive-image-container {
   display: flex;
   align-items: center;
-  width: 250px;
+  width: 200px;
 }
   
   .responsive-image-container {
