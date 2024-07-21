@@ -70,14 +70,10 @@ header i {
 
 footer {
   background-color: #000;
-  height: 200px;
-  padding: 20px;
   color: #6FB132;
-  display: block;
 }
 
 footer p {
-  color: #6FB132;
   text-align: left;
 }
 
@@ -96,7 +92,7 @@ footer p {
   background-color: #6FB132;
   list-style: none;
   display: flex;
-  justify-content: center;
+  justify-content: ceer;
   font-size: 20px;
   padding-top: 5px;
   height: 30px;
@@ -176,7 +172,7 @@ mark-color {
   }
 
 #Copyright {
-  color: #000;
+  color: #6FB132;
   font-size: 16px;
   font-weight: bold;
 }
