@@ -153,6 +153,7 @@ div {
 
   .container-ul {
     display: flex;
+    border: 1px solid black;
   }
   
 .container-ul li {
