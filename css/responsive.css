@@ -84,7 +84,6 @@ div {
   
   .content1 {
     width: 300px;
-    padding-left: 50px;
     font-size: 18px;
   }
   
@@ -143,9 +142,8 @@ div {
   }
 
   .container {
-    display: flex;
-    justify-content: center;
-    flex-wrap: nowrap;
+    display: block;
+    display: inline-block;
   }
 
   .container-ul {
@@ -158,7 +156,6 @@ div {
   
   .content1 {
     width: 300px;
-    margin-left: 20px;
   }
   
 .div-responsive-image-container {
@@ -167,7 +164,7 @@ div {
   align-items: center;
 }
   
-  container2 {
+  contain2 {
     display: flex;
   }
   
