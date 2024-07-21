@@ -1,11 +1,8 @@
 @media only screen and (max-width: 600px) {
-  img {
-    justify-content: center;
-  }
-  
   .responsive-image {
     width: 376px;
     height: auto;
+    justify-content: center;
   }
   
 .logo-name {
