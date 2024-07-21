@@ -78,7 +78,8 @@ div {
   }
 
   .container-ul {
-    display: flex;
+    display: block;
+    justify-content: inline-block;
   }
   
 .container-ul li {
@@ -107,6 +108,7 @@ div {
   
   .container2 {
     display: flex;
+    flex-wrap: wrap;
   }
 
 div {
