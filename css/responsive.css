@@ -122,6 +122,9 @@ div {
     width: 300px;
     height: 150px;
 }
+.recommendation i {
+  margin-right: 10px;
+}
   
 .margin-icon {
   margin: 80px;
