@@ -52,16 +52,9 @@ div {
   margin-right: 28px;
   }
   
-.margin-icon {
-  margin: 60px;
-  width: 20px;
-  height: 20px;
-}
-
-  .iconl {
-    width: 60px;
-    height: auto;
-  }
+ .margin-icon {
+   margin-right: 10px;
+ }
 
   .container {
     display: flex;
