@@ -15,7 +15,7 @@
   .text-container {
     width: 360px;
     text-align: center;
-    padding: 3px;
+    padding: -1;
   }
 
   .image-pc {
