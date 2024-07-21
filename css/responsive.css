@@ -65,7 +65,7 @@
   }
   
   .logo-footer {
-    margin: -65px;
+    display: center;
   }
   
   main {
@@ -120,7 +120,7 @@
   }
   
   .logo-footer {
-    margin: -160px;
+    display: center;
   }
   
   main {
@@ -170,7 +170,7 @@
   }
   
   .logo-footer {
-    margin: -180px;
+    display: center;
   }
   
   main {
