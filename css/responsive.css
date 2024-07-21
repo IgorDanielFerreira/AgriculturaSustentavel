@@ -90,6 +90,7 @@ div {
     width: 50%;
     height: 150px;
     font-size: 18px;
+    margin-left: 0;
   }
   
 .div-responsive-image-container {
