@@ -84,7 +84,7 @@ div {
   
   .content1 {
     width: 280px;
-    text-align: left;
+    justify-content: left;
     font-size: 18px;
   }
   
