@@ -71,11 +71,20 @@
 
 @media only screen and (min-width: 992px) and (max-width: 1200px){
   .responsive-image {
-    width: 450px;
+    width: 350px;
  }
   
   .margin-icon {
   margin-right: 30px;
+  }
+
+  
+  .menu-logo {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 0;
+    padding-inline: 20px;
   }
   
 .menu-logo {
@@ -84,10 +93,12 @@
   
   .container {
     display: flex;
+    justify-content: space-around;
+    flex-wrap: nowrap;
   }
   
   .text-container {
-    width: 400px;
+    width: 280px;
     font-size: 20px;
   }
   
@@ -124,11 +135,6 @@
     align-items: center;
     margin-left: 0;
     padding-inline: 20px;
-  }
-  
-  .iconl {
-    width: 35px;
-    height: auto;
   }
 
  .container {
