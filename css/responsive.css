@@ -69,7 +69,7 @@ div {
   }
 
   .container {
-    display: inline;
+    display: flex;
   }
 
   .container-ul {
