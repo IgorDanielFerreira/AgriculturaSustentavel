@@ -136,6 +136,12 @@ footer p {
   padding: 5px;
 }
 
+.background-container3 {
+  background-color: #E1E1E1;
+  margin: 15px;
+  padding: 5px;
+}
+
 .all-list {
   justify-content: center;
 }
