@@ -84,6 +84,7 @@ div {
   .content1 {
     width: 300px;
     font-size: 18px;
+    margin-left: 0;
   }
   
 .div-responsive-image-container {
