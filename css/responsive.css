@@ -90,7 +90,6 @@ div {
 .div-responsive-image-container {
   display: flex;
   align-items: center;
-  width: 200px;
 }
   
   .responsive-image-container {
