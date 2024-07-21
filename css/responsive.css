@@ -2,7 +2,7 @@
   .responsive-image {
     width: 376px;
     height: auto;
-    justify-content: center;
+    display: center;
   }
   
 .logo-name {
