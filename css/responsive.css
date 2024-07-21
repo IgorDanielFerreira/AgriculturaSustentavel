@@ -1,4 +1,8 @@
 @media only screen and (max-width: 600px) {
+  footer {
+    height: 600px;
+  }
+  
   .responsive-image {
     width: 376px;
     height: auto;
