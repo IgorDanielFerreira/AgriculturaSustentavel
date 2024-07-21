@@ -220,7 +220,7 @@ div {
   }
   
 .container-ul li {
-    margin: 20px;
+    margin: 30px;
   }
   
   .content1 {
@@ -230,7 +230,6 @@ div {
   
 .div-responsive-image-container {
   display: flex;
-  justify-content: center;
   align-items: center;
 }
   
