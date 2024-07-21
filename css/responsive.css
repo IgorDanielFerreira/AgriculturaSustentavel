@@ -73,7 +73,6 @@ div {
   }
 
   .container {
-    display: flex;
     flex-wrap: wrap;
     padding: 0;
   }
@@ -98,7 +97,7 @@ div {
 }
   
   .responsive-image-container {
-    width: 390px;
+    width: 400px;
   }
   
   .div-responsive-image {
