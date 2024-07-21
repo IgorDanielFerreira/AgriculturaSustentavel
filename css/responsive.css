@@ -65,7 +65,6 @@ div {
 
   .container {
     display: flex;
-    padding: 0;
   }
   
   .text-container{
