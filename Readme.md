@@ -16,8 +16,10 @@ Recursos Adicionais:
 
 Blog: Acesse nosso blog para encontrar artigos informativos, notícias e histórias inspiradoras sobre agricultura sustentável e o projeto Agrinho.
 https://www.sistemafaep.org.br/agrinho/
+
 Contato: Entre em contato conosco para saber mais sobre o projeto Agrinho, como se envolver e contribuir para a construção de um futuro mais verde:
 agrinho@senarpr.org.br
+
 Redes Sociais: Siga-nos nas redes sociais para se manter atualizado sobre as últimas notícias, eventos e iniciativas do projeto Agrinho.
 https://www.facebook.com/sistemafaep
 https://www.instagram.com/sistema.faep/
