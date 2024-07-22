@@ -190,6 +190,11 @@ footer p {
   top: 0;
 }
 
+#padding-images {
+  padding-bottom: 50px;
+  padding-top: 50px;
+}
+
 #icon-solid-bar {
  padding-top: 10px;
 }
