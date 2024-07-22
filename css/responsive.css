@@ -34,7 +34,7 @@
  }
 }
 
-@media (width >= 601px) and (min-width: 601px) and (max-width: 991px) {
+@media only screen (width >= 601px) and (min-width: 601px) and (max-width: 991px) {
   .responsive-image {
     width: 400px;
     height: auto;
