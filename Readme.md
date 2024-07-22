@@ -1,7 +1,7 @@
-# Markdown heading
+# Projeto Agrinho: Agricultura Sustentável 
 Este site é dedicado à promoção da agricultura sustentável e à divulgação do projeto Agrinho, uma iniciativa inovadora que inspira jovens a se tornarem agentes de transformação na construção de um sistema alimentar mais verde e justo.
 
-Navegue pelas nossas páginas para:
+# Navegue pelas nossas páginas para:
 
 Descobrir a Agricultura Sustentável: Explore os princípios, benefícios e práticas da agricultura sustentável, aprendendo como essa abordagem transformadora contribui para um futuro mais próspero e sustentável.
 
@@ -11,9 +11,9 @@ Explorar os Benefícios: Descubra os diversos benefícios da agricultura sustent
 
 Adotar Práticas Sustentáveis: Encontre informações práticas sobre como implementar técnicas de agricultura sustentável em sua propriedade ou comunidade, desde o manejo do solo até a produção de alimentos saudáveis.
 
-Junte-se a nós na construção de um futuro mais sustentável!
+# Junte-se a nós na construção de um futuro mais sustentável!
 
-Recursos Adicionais:
+# Recursos Adicionais:
 
 Blog: Acesse nosso blog para encontrar artigos informativos, notícias e histórias inspiradoras sobre agricultura sustentável e o projeto Agrinho.
 
