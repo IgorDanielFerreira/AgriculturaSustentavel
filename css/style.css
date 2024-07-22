@@ -106,7 +106,7 @@ footer p {
   width: 100%;
 }
 
-.nav-link actived {
+.nav-link:visited {
   background-color: #0B4A00;
 }
 
