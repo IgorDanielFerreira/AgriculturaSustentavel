@@ -106,6 +106,7 @@ footer p {
   padding: 5px;
   width: 100%;
 }
+
 .banner-image {
   background-image: url('../assets/images/20240719_212832_0000.png');
   padding: 75px;
@@ -116,6 +117,7 @@ footer p {
   font-size: 20px;
   color:  #000;
   box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.7);
+  box-shadow: (opacity: 0.7);
 }
 
 .padding {
