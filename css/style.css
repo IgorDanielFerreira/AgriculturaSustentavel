@@ -71,10 +71,12 @@ header i {
 footer {
   background-color: #000;
   color: #6FB132;
+  
 }
 
 footer p {
   text-align: left;
+  list-style: none;
   top: 3px;
 }
 
