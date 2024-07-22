@@ -11,7 +11,7 @@ Explorar os Benefícios: Descubra os diversos benefícios da agricultura sustent
 
 Adotar Práticas Sustentáveis: Encontre informações práticas sobre como implementar técnicas de agricultura sustentável em sua propriedade ou comunidade, desde o manejo do solo até a produção de alimentos saudáveis.
 
-# Junte-se a nós na construção de um futuro mais sustentável!
+Junte-se a nós na construção de um futuro mais sustentável!
 
 # Recursos Adicionais:
 
@@ -30,4 +30,4 @@ Redes Sociais: Siga-nos nas redes sociais para se manter atualizado sobre as úl
 <https://www.instagram.com/sistema.faep/>
 
 Esperamos que este site seja um recurso valioso para você e que inspire sua jornada em direção à agricultura sustentável!
-<img src="assets/images/1_20240720_104849_0000.png" alt="Agrinho">
+# <img src="assets/images/1_20240720_104849_0000.png" alt="Agrinho">
