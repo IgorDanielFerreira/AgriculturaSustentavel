@@ -63,11 +63,6 @@ header {
   width: 100%;
 }
 
-header i {
-  text-align: right;
-  padding-top: 0;
-}
-
 footer {
   background-color: #000;
   color: #6FB132;
@@ -169,6 +164,11 @@ footer p {
 .logo-footer {
   width: 200px;
   top: 0;
+}
+
+#icon-solid-bar {
+  padding-top: 0;
+  margin-right: 0;
 }
 
 #mark-color {
