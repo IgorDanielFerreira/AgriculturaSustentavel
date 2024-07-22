@@ -146,6 +146,11 @@ footer p {
   padding: 5px;
 }
 
+.container-footer {
+  display: flex;
+  flex-wrap: wrap;
+}
+
 .all-list {
   justify-content: center;
 }
