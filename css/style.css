@@ -168,7 +168,7 @@ footer p {
 }
 
 #icon-solid-bar {
-  bottom: 20px;
+ padding-top: 10px;
 }
 
 #mark-color {
