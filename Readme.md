@@ -32,4 +32,4 @@ Redes Sociais: Siga-nos nas redes sociais para se manter atualizado sobre as úl
 
 Esperamos que este site seja um recurso valioso para você e que inspire sua jornada em direção à agricultura sustentável!
 
-#### <img src="assets/images/1_20240720_104849_0000.png" alt="Agrinho">
+# <img src="assets/images/1_20240720_104849_0000.png" alt="Agrinho">
