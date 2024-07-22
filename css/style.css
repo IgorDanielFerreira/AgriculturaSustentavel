@@ -84,7 +84,7 @@ footer p {
 
 .menu-logo {
  display: flex;
-  justify-content: space-between;
+ justify-content: space-between;
 }
 
 .menu {
@@ -168,7 +168,7 @@ footer p {
 }
 
 #icon-solid-bar {
-  
+  margin-top: 0;
 }
 
 #mark-color {
