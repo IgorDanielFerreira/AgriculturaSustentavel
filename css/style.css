@@ -169,7 +169,7 @@ footer p {
 #icon-solid-bar {
   display: flex;
   justify-content: right;
-  margin-bottom: 20px;
+  justify-content: top;
 }
 
 #mark-color {
