@@ -107,7 +107,8 @@ footer p {
 }
 
 .nav-link:visited {
-  background-color: #0B4A00;
+  color: #0B4A00;
+  text-decoration-color: #434343;
 }
 
 .banner-image {
