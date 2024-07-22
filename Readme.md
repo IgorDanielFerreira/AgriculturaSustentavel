@@ -1,5 +1,4 @@
-<html>
-<body>
+# Markdown heading
 Este site é dedicado à promoção da agricultura sustentável e à divulgação do projeto Agrinho, uma iniciativa inovadora que inspira jovens a se tornarem agentes de transformação na construção de um sistema alimentar mais verde e justo.
 
 Navegue pelas nossas páginas para:
@@ -18,19 +17,17 @@ Recursos Adicionais:
 
 Blog: Acesse nosso blog para encontrar artigos informativos, notícias e histórias inspiradoras sobre agricultura sustentável e o projeto Agrinho.
 
-https://www.sistemafaep.org.br/agrinho/
+<https://www.sistemafaep.org.br/agrinho/>
 
 Contato: Entre em contato conosco para saber mais sobre o projeto Agrinho, como se envolver e contribuir para a construção de um futuro mais verde:
 
-agrinho@senarpr.org.br
+<agrinho@senarpr.org.br>
 
 Redes Sociais: Siga-nos nas redes sociais para se manter atualizado sobre as últimas notícias, eventos e iniciativas do projeto Agrinho.
 
-https://www.facebook.com/sistemafaep
+<https://www.facebook.com/sistemafaep>
 
-https://www.instagram.com/sistema.faep/
+<https://www.instagram.com/sistema.faep/>
 
 Esperamos que este site seja um recurso valioso para você e que inspire sua jornada em direção à agricultura sustentável!
 <img src="assets/images/1_20240720_104849_0000.png" alt="Agrinho">
-</body>
-</html>
