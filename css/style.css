@@ -83,7 +83,7 @@ footer p {
 }
 
 .menu-logo {
- display: block;
+ display: inline-block;
 }
 
 .menu {
@@ -167,9 +167,7 @@ footer p {
 }
 
 #icon-solid-bar {
-  display: flex;
   justify-content: right;
-  padding: -20px;
 }
 
 #mark-color {
