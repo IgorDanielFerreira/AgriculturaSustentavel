@@ -64,8 +64,8 @@ header {
 }
 
 header i {
-  margin-top: 0;
-  margin-right: 0;
+  text-align: right;
+  padding-top: 0;
 }
 
 footer {
