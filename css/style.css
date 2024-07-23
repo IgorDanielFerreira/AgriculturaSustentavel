@@ -181,6 +181,10 @@ footer p {
   margin: 20px 0;
 }
 
+.mailto-footer {
+  display: flex;
+}
+
 .contacts-footer p {
   color: #6FB132;
 }
