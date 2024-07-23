@@ -152,7 +152,6 @@ footer p {
 
 .container-footer {
   display: flex;
-  flex-wrap: wrap;
 }
 
 .all-list {
