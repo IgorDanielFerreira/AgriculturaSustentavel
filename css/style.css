@@ -182,7 +182,7 @@ footer p {
 }
 
 .mailto-footer {
-  display: flex;
+  display: inline-block;
 }
 
 .feedback-text-footer {
