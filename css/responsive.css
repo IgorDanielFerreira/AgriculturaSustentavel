@@ -81,7 +81,7 @@
   }
   
   .line-footer-mobile {
-    display: none;
+    visibility: collapse;
   }
   
   .container-footer {
