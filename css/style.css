@@ -215,7 +215,7 @@ footer p {
 
 .image-agrinho-footer {
   width: 100px;
-  height: 100px;
+  height: auto;
 }
 
 #padding-images {
