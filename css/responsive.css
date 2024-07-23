@@ -1,6 +1,6 @@
 @media only screen and (max-width: 600px) {
   footer {
-    height: 300px;
+    height: 450px;
   }
   
   .responsive-image {
@@ -48,6 +48,10 @@
 }
 
 @media only screen and (min-width: 601px) and (max-width: 991px) {
+  footer {
+    height: 250px;
+  }
+  
   .responsive-image {
     width: 400px;
     height: auto;
@@ -107,6 +111,10 @@
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1200px){
+  footer {
+    height: 250px;
+  }
+    
   .responsive-image {
     width: 350px;
  }
@@ -173,6 +181,10 @@
 }
 
 @media only screen and (min-width: 1201px) {
+  footer {
+    height: 250px;
+  }
+    
   .responsive-image {
     width: 350px;
   }
