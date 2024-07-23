@@ -80,6 +80,10 @@
     display: flex;
   }
   
+  .line-footer-mobile {
+    display: none;
+  }
+  
   main {
     margin: 45px;
   }
@@ -139,6 +143,10 @@
     display: flex;
   }
   
+  .line-footer-mobile {
+    display: none;
+  }
+  
   main {
     margin: 140px;
   }
@@ -191,6 +199,10 @@
   
   .container-footer {
     display: flex;
+  }
+  
+  .line-footer-mobile {
+    display: none;
   }
   
   main {
