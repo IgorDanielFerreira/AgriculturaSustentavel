@@ -168,7 +168,6 @@ footer p {
 .line-footer {
   width: 80%;
   height: 2px;
-  display: inline-block;
   background-color: #6FB132;
   margin: 20px 0;
 }
