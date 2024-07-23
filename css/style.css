@@ -179,7 +179,9 @@ footer p {
   margin: 20px 0;
 }
 
-.container-all-footer {
+.container-footer {
+  display: flex;
+  justify-content: center;
 }
 
 .content-footer {
