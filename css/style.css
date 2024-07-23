@@ -181,7 +181,7 @@ footer p {
 }
 
 .container-all-footer {
-  display: flex;
+  display: center;
   justify-content: center;
 }
 
