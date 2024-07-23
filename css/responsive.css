@@ -41,6 +41,10 @@
   .container-footer {
     display: block;
   }
+  
+  .name-creator-footer {
+    font-size: 18px;
+  }
 }
 
 @media only screen and (min-width: 601px) and (max-width: 991px) {
@@ -91,6 +95,10 @@
   
   .container-footer {
     padding: 20px;
+  }
+  
+  .name-creator-footer {
+    font-size: 20px;
   }
   
   main {
@@ -155,6 +163,10 @@
     display: none;
   }
   
+  .name-creator-footer {
+    font-size: 22px;
+  }
+  
   main {
     margin: 140px;
   }
@@ -211,6 +223,10 @@
   
   .line-footer-mobile {
     display: none;
+  }
+  
+  .name-creator-footer {
+    font-size: 24px;
   }
   
   main {
