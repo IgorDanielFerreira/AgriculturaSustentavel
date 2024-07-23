@@ -84,6 +84,10 @@
     display: none;
   }
   
+  .container-footer {
+    padding: 20px;
+  }
+  
   main {
     margin: 45px;
   }
