@@ -4,7 +4,7 @@
 }
 
 html {
-  font-family: times;
+  font-family: Times New Roman;
 }
 
 p {
@@ -15,7 +15,7 @@ p {
 
 h2, h3, h4, h5, h6 {
   text-align: center;
-  font-family: roboto;
+  font-family: Roboto;
   font-weight: bold;
 }
   
@@ -194,6 +194,12 @@ footer p {
 }
 
 .contacts-footer p {
+}
+
+.name-creator-footer {
+  color: #6FB132;
+  font-size: 18px;
+  font-family: Cursive;
 }
 
 .logo-footer {
