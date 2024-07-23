@@ -65,7 +65,6 @@ header {
 
 footer {
   background-color: #000;
-  color: #6FB132;
   display: flex;
   flex-wrap: wrap;
 }
@@ -179,6 +178,10 @@ footer p {
   display: inline-block;
   background-color: #6FB132;
   margin: 20px 0;
+}
+
+.content-footer {
+  color: #6FB132;
 }
 
 .mailto-footer {
