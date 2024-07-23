@@ -148,10 +148,6 @@ footer p {
   padding: 5px;
 }
 
-.container-footer {
-  display: flex;
-}
-
 .all-list {
   justify-content: center;
 }
@@ -170,6 +166,14 @@ footer p {
 }
 
 .line-footer {
+  width: 80%;
+  height: 2px;
+  display: inline-block;
+  background-color: #6FB132;
+  margin: 20px 0;
+}
+
+.line-footer-mobile {
   width: 80%;
   height: 2px;
   display: inline-block;
