@@ -166,7 +166,7 @@ footer p {
 
 .line-footer {
   display: center;
-  width: 80%;
+  width: 100%;
   height: 2px;
   background-color: #6FB132;
   margin: 20px 0;
@@ -174,7 +174,7 @@ footer p {
 
 .line-footer-mobile {
   display: center;
-  width: 80%;
+  width: 100%;
   height: 2px;
   background-color: #6FB132;
   margin: 20px 0;
