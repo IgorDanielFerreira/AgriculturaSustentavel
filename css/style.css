@@ -209,6 +209,11 @@ footer p {
   top: 0;
 }
 
+.image-agrinho-footer {
+  width: 100px;
+  height: 100px;
+}
+
 #padding-images {
   padding-bottom: 100px;
   padding-top: 100px;
