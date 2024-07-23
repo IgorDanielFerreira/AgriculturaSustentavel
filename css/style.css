@@ -187,6 +187,10 @@ footer p {
   color: #6FB132;
 }
 
+.footer-column {
+  display: flex;
+}
+
 .mailto-footer {
 }
 
