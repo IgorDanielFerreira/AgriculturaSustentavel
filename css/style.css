@@ -185,7 +185,7 @@ footer p {
 }
 
 .mailto-footer {
-  display: inline-block;
+  display: flex;
 }
 
 .feedback-text-footer {
