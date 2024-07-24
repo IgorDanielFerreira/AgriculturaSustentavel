@@ -88,6 +88,7 @@
   .container-footer {
     display: block;
   }
+  
   .content-footer {
     padding: 5px;
   }
@@ -172,6 +173,22 @@
   .container-footer {
     display: flex;
     padding: 25px;
+  }
+  
+  .content-footer {
+    padding: 10px;
+  }
+  
+  .content-footer2 {
+    padding: 10px;
+  }
+  
+  .content-footer3 {
+    padding: 10px;
+  }
+  
+  .credits-footer {
+    padding: 10px;
   }
   
   .line-footer-mobile {
