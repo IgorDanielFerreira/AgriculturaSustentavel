@@ -193,7 +193,6 @@ footer p {
 
 .footer-column2 {
   flex-direction: column;
-  justify-content: space-between;
 }
 
 .mailto-footer {
@@ -221,6 +220,8 @@ footer p {
 .image-agrinho-footer {
   width: 100px;
   height: auto;
+  bottom: 0;
+  margin-right: 0;
 }
 
 #padding-images {
