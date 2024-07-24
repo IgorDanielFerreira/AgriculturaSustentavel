@@ -189,6 +189,9 @@ footer p {
 
 .footer-column {
   display: flex;
+}
+
+.footer-column2 {
   flex-direction: column;
 }
 
