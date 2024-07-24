@@ -108,7 +108,7 @@
   
   .format-content-pc-footer {
     display: flex;
-    flex-wrap: wrap;
+    justify-content: row;
   }
   
   .name-creator-footer {
