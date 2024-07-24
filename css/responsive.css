@@ -92,14 +92,11 @@
   
   .container-footer {
     display: block;
+    padding: 20px;
   }
   
   .line-footer-mobile {
     display: none;
-  }
-  
-  .container-footer {
-    padding: 20px;
   }
   
   .format-content-pc-footer {
@@ -118,14 +115,16 @@
 
 @media only screen and (min-width: 992px) and (max-width: 1200px) {
   footer {
-    height: 250px;
+    height: 500px;
+    display: block;
   }
     
   .responsive-image {
     width: 350px;
+    height: auto;
  }
   
-  .margin-icon {
+  #margin-icon {
   margin-right: 30px;
   }
   
@@ -171,11 +170,17 @@
   
   .container-footer {
     display: flex;
+    padding: 25px;
   }
   
   .line-footer-mobile {
     display: none;
   }
+  
+    .format-content-pc-footer {
+    display: flex;
+    justify-content: row;
+    }
   
   .name-creator-footer {
     font-size: 22px;
