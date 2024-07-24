@@ -103,8 +103,8 @@ footer p {
   width: 100%;
 }
 
-a:visited {
-  color: #00EBDB;
+.nav-link:visited {
+  color: #004711;
 }
 
 .banner-image {
