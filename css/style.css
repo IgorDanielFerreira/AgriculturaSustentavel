@@ -103,7 +103,7 @@ footer p {
   width: 100%;
 }
 
- a.nav-link:visited {
+ a.nav-link:visited, a.nav-link:hover {
   color: #004711;
 }
 
