@@ -214,14 +214,13 @@ a.nav-link:visited, a.nav-link:hover {
 .logo-footer {
   width: 150px;
   height: auto;
-  padding: 50px;
+  top: 0;
 }
 
 .image-agrinho-footer {
   width: 200px;
   height: auto;
-  bottom: 0;
-  margin-right: 0;
+  padding-bottom: 0;
 }
 
 #padding-images {
