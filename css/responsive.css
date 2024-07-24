@@ -221,7 +221,7 @@
   }
   
   .container-footer {
-    display: flex;
+    display: block;
     padding: 30px;
   }
   
