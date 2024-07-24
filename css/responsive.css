@@ -108,6 +108,7 @@
   
   .format-content-pc-footer {
     display: flex;
+    flex-wrap: wrap;
   }
   
   .name-creator-footer {
