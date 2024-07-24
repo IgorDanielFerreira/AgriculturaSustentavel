@@ -196,6 +196,14 @@ footer p {
   color: #666666;
 }
 
+.credits-footer a:visited {
+  color: #00B6E4;
+}
+
+.credits-footer a {
+  color: #6FB132;
+}
+
 .name-footer {
   color: #6FB132;
   font-family: Cursive;
