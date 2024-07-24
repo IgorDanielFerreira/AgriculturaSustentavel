@@ -1,6 +1,6 @@
 @media only screen and (max-width: 600px) {
   footer {
-    height: 650px;
+    height: 700px;
   }
   
   .responsive-image {
@@ -49,7 +49,7 @@
 
 @media only screen and (min-width: 601px) and (max-width: 991px) {
   footer {
-    height: 402px;
+    height: 410px;
     dislay: block;
   }
   
