@@ -91,11 +91,11 @@
   }
   
   .container-footer {
-    display: flex;
+    display: block;
   }
   
   .footer-column2 {
-  flex-direction: row;
+   ;
   }
   
   .line-footer-mobile {
