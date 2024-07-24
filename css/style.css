@@ -67,6 +67,10 @@ footer a:visited {
   color: #00B6E4;
 }
 
+footer a {
+  color: #6FB132;
+}
+
 footer {
   display: flex;
   justify-content: center;
