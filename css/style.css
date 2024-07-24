@@ -227,6 +227,10 @@ footer p {
   font-size: 12px;
 }
 
+.copy-privacy {
+  display: flex;
+}
+
 #padding-images {
   padding-bottom: 100px;
   padding-top: 100px;
