@@ -113,10 +113,6 @@
   .responsive-image {
     width: 350px;
     height: auto;
- }
-  
-  #margin-icon {
-  margin-right: 30px;
   }
   
   .menu-logo {
@@ -187,10 +183,6 @@
     width: 350px;
     height: auto;
   }
-  
-.margin-icon {
-  margin-right: 30px;
-}
 
   .menu-logo {
     display: flex;
