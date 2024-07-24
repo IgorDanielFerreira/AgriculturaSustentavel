@@ -103,7 +103,7 @@ footer p {
   width: 100%;
 }
 
-.nav-link: visited {
+.menu a:visited {
   color: #0B4A00;
   text-decoration-color: #434343;
 }
