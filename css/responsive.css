@@ -225,6 +225,10 @@
     padding: 30px;
   }
   
+  .name-footer {
+    font-size: 18px;
+    }
+  
   .line-footer-mobile {
     display: none;
   }
