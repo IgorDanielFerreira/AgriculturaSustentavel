@@ -193,6 +193,7 @@ footer p {
 
 .footer-column2 {
   flex-direction: column;
+  justify-content: space-between;
 }
 
 .mailto-footer {
