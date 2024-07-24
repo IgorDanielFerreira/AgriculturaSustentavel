@@ -88,9 +88,20 @@
   .container-footer {
     display: block;
   }
+  .content-footer {
+    padding: 5px;
+  }
   
-  .format-content-pc-footer {
-    padding-left: 20px;
+  .content-footer2 {
+    padding: 5px;
+  }
+  
+  .content-footer3 {
+    padding: 5px;
+  }
+  
+  .credits-footer {
+    padding: 5px;
   }
   
   .line-footer-mobile {
