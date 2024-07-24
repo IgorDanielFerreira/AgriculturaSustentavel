@@ -63,6 +63,10 @@ header {
   width: 100%;
 }
 
+a:visited {
+  color: #5CDEFF;
+}
+
 footer {
   display: flex;
   justify-content: center;
@@ -94,10 +98,6 @@ footer p {
   padding-top: 5px;
   height: 30px;
   width: 100%;
-}
-
-a:visited {
-  color: #5CDEFF;
 }
 
 .nav-link {
