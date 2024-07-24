@@ -214,7 +214,7 @@ a.nav-link:visited, a.nav-link:hover {
 .logo-footer {
   width: 150px;
   height: auto;
-  top: 0;
+  padding: 50px;
 }
 
 .image-agrinho-footer {
