@@ -93,6 +93,10 @@
     display: flex;
   }
   
+  .footer-column2 {
+  flex-direction: row;
+  }
+  
   .line-footer-mobile {
     display: none;
   }
