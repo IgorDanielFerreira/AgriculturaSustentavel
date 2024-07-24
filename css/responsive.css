@@ -89,6 +89,10 @@
     display: block;
   }
   
+  .format-content-pc-footer {
+    padding: 10px;
+  }
+  
   .line-footer-mobile {
     display: none;
   }
