@@ -77,7 +77,7 @@ footer a:visited {
   color: #00892D;
 }
 
-footer a {
+footer a:link {
   color: #6FB132;
 }
 
@@ -85,7 +85,7 @@ footer a {
   color: #007997;
 }
 
-.banner-image a {
+.banner-image a:link {
   color: #000;
 }
 
@@ -93,7 +93,7 @@ footer a {
   color: #6FB132;
 }
 
-.credits-list-footer a {
+.credits-list-footer a:link {
   color: #00B6E4;
 }
 
