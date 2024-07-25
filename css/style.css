@@ -73,18 +73,6 @@ footer p {
   top: 3px;
 }
 
-footer a:link {
-  color: #6FB132;
-}
-
-footer a:visited {
-  color: #00892D;
-}
-
-footer a:active {
-  color: #6C6C6C;
-}
-
 .nav-link {
   color: #000;
   padding: 5px;
@@ -111,6 +99,17 @@ footer a:active {
   color: #38BC6F;
 }
 
+.footer-list-link:link {
+  color: #6FB132;
+}
+
+.footer-list-link:visited {
+  color: #00892D;
+}
+
+.footer-list-link:active {
+  color: #6C6C6C;
+}
 .credits-list-footer {
   color: #6FB132;
 }
