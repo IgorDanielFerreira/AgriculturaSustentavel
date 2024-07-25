@@ -73,27 +73,27 @@ footer p {
   top: 3px;
 }
 
-a footer:visited {
+footer a:visited {
   color: #00892D;
 }
 
-a footer {
+footer a {
   color: #6FB132;
 }
 
-a.banner-image:visited {
+.banner-image a:visited {
   color: #007997;
 }
 
-a.banner-image {
+.banner-image a {
   color: #000;
 }
 
-a.credits-list-footer:visited {
+.credits-list-footer a:visited {
   color: #6FB132;
 }
 
-a.credits-list-footer {
+.credits-list-footer a {
   color: #00B6E4;
 }
 
