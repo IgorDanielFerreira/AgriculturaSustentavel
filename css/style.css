@@ -63,14 +63,6 @@ header {
   width: 100%;
 }
 
-footer a:visited {
-  color: #00892D;
-}
-
-footer a {
-  color: #6FB132;
-}
-
 footer {
   display: flex;
   justify-content: center;
@@ -79,6 +71,30 @@ footer {
 
 footer p {
   top: 3px;
+}
+
+a.banner-image:visited {
+  color: #007997;
+}
+
+a.banner-image {
+  color: #000;
+}
+
+a.credits-list-footer:visited {
+  color: #6FB132;
+}
+
+a.credits-list-footer {
+  color: #00B6E4;
+}
+
+footer a:visited {
+  color: #00892D;
+}
+
+footer a {
+  color: #6FB132;
 }
 
 .logo-name {
@@ -119,14 +135,6 @@ footer p {
 .banner-image {
   background-image: url('../assets/images/Farming.png');
   padding: 75px;
-}
-
-.banner-image a {
-  color: #000;
-}
-
-a.banner-image:visited {
-  color: #007997;
 }
 
 .banner-image p {
@@ -214,14 +222,6 @@ a.banner-image:visited {
 .feedback-text-footer {
   font-size: 12px;
   color: #666666;
-}
-
-a.credits-list-footer:visited {
-  color: #6FB132;
-}
-
-a.credits-list-footer {
-  color: #00B6E4;
 }
 
 .name-footer {
