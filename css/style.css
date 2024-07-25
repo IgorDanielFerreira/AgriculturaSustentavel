@@ -99,7 +99,7 @@ footer p {
   color: #38BC6F;
 }
 
-.footer-list-link:link {
+.footer-list-link {
   color: #6FB132;
 }
 
@@ -110,6 +110,7 @@ footer p {
 .footer-list-link:active {
   color: #6C6C6C;
 }
+
 .credits-list-footer {
   color: #6FB132;
 }
