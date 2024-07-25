@@ -64,7 +64,7 @@ header {
 }
 
 footer a:visited {
-  color: #00B6E4;
+  color: #00892D;
 }
 
 footer a {
@@ -117,11 +117,11 @@ footer p {
 }
 
 .banner-image a {
-  color: #6FB132;
+  color: #00B6E4;
 }
 
 a.banner-image:visited {
-  color: #00B6E4;
+  color: #007997;
 }
 
 .banner-image p {
