@@ -112,11 +112,7 @@ footer p {
 }
 
 .credits-list-footer {
-  color: #6FB132;
-}
-
-.credits-list-footer a:visited {
-  color: #00892D;
+  list-style: none;
 }
 
 .logo-name {
@@ -138,7 +134,7 @@ footer p {
   justify-content: center;
   font-size: 20px;
   padding-top: 5px;
-  height: 30px;
+  height 30px;
   width: 100%;
 }
 
