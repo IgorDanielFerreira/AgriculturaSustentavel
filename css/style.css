@@ -111,7 +111,7 @@ footer p {
 }
 
 .linha-vertical {
-  height: 200px;
+  height: 40px;
   width: 2px;
   border-right: 2px solid black;
 }
