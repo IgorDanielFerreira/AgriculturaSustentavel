@@ -99,12 +99,16 @@ footer a:active {
   color: #9EF8FF;
 }
 
-.banner-image a:link {
+.banner-link-agrinho {
   color: #000;
 }
 
-.banner-image a:visited {
+.banner-link-agrinho:visited {
   color: #007997;
+}
+
+.banner-link-agrinho:active {
+  color: #38BC6F;
 }
 
 .credits-list-footer a:link {
