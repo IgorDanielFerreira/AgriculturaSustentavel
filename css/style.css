@@ -111,9 +111,11 @@ footer p {
 }
 
 .linha-vertical {
-  height: 40px;
-  width: 2px;
-  border-right: 2px solid black;
+  height: 100%;
+  width: 1px;
+  border-right: 1px dashed #ccc;
+  margin-left: 20px;
+  margin-right: 20px;
 }
 
 .banner-image {
