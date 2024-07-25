@@ -143,6 +143,13 @@
     width: 350px;
     height: auto;
   }
+
+  .responsive-video {
+    display: flex;
+    justify-content: center;
+    width: 900px;
+    height: 450px;
+  }
   
   .menu-logo {
     display: flex;
@@ -228,7 +235,14 @@
     width: 350px;
     height: auto;
   }
-
+  
+.responsive-video {
+    display: flex;
+    justify-content: center;
+    width: 1200px;
+    height: 600px;
+}
+  
   .menu-logo {
     display: flex;
     justify-content: space-between;
