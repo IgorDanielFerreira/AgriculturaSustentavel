@@ -12,7 +12,7 @@
     display: flex;
     justify-content: center;
     width: 376px;
-    height: auto;
+    height: 188px;
   }
   
 .logo-name {
@@ -60,6 +60,13 @@
     width: 400px;
     height: auto;
   }
+  
+    .responsive-video {
+    display: flex;
+    justify-content: center;
+    width: 600px;
+    height: 300px;
+    }
   
   #margin-icon {
    margin-right: 25px;
