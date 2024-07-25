@@ -159,6 +159,12 @@ a.banner-image:visited {
   padding: 5px;
 }
 
+.container-responsive-video {
+  display: flex;
+  justify-content: center;
+  width: 100%
+}
+
 .all-list {
   justify-content: center;
 }
