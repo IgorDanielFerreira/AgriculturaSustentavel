@@ -78,7 +78,7 @@ footer a:visited {
 }
 
 footer a:active {
-  color: ;
+  color: #6C6C6C;
 }
 
 footer a:link {
@@ -100,12 +100,12 @@ footer a:link {
   width: 100%;
 }
 
-.banner-image a:visited {
-  color: #007997;
-}
-
 .banner-image a:link {
   color: #000;
+}
+
+.banner-image a:visited {
+  color: #007997;
 }
 
 .credits-list-footer a:visited {
