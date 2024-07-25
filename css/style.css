@@ -73,6 +73,10 @@ footer p {
   top: 3px;
 }
 
+footer a:link {
+  color: #6FB132;
+}
+
 footer a:visited {
   color: #00892D;
 }
@@ -81,23 +85,18 @@ footer a:active {
   color: #6C6C6C;
 }
 
-footer a:link {
-  color: #6FB132;
-}
-
-.nav-link a:active {
-  color: #9EF8FF;
-}
-
-
-.nav-link a:visited {
-  color: #6C6C6C;
-}
-
-.nav-link {
+.nav-link:link {
   color: #000;
   padding: 5px;
   width: 100%;
+}
+
+.nav-link:visited {
+  color: #6C6C6C;
+}
+
+.nav-link:active {
+  color: #9EF8FF;
 }
 
 .banner-image a:link {
@@ -108,12 +107,12 @@ footer a:link {
   color: #007997;
 }
 
-.credits-list-footer a:visited {
-  color: #6FB132;
-}
-
 .credits-list-footer a:link {
   color: #00B6E4;
+}
+
+.credits-list-footer a:visited {
+  color: #6FB132;
 }
 
 .logo-name {
