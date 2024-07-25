@@ -116,6 +116,14 @@ footer p {
   padding: 75px;
 }
 
+.banner-image a {
+  color: #6FB132;
+}
+
+a.banner-image:visited {
+  color: #00B6E4;
+}
+
 .banner-image p {
   text-align: center;
   font-size: 20px;
