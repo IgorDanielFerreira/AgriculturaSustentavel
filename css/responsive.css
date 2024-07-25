@@ -8,6 +8,13 @@
     height: auto;
   }
   
+  .responsive-video {
+    display: flex;
+    justify-content: center;
+    width: 376px;
+    height: auto;
+  }
+  
 .logo-name {
   padding-top: 10px;
 }
