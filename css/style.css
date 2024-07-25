@@ -111,12 +111,12 @@ footer a:active {
   color: #38BC6F;
 }
 
-.credits-list-footer a:link {
-  color: #00B6E4;
+.credits-list-footer {
+  color: #6FB132;
 }
 
 .credits-list-footer a:visited {
-  color: #6FB132;
+  color: #00892D;
 }
 
 .logo-name {
