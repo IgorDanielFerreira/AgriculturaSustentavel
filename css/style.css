@@ -73,6 +73,14 @@ footer p {
   top: 3px;
 }
 
+a footer:visited {
+  color: #00892D;
+}
+
+a footer {
+  color: #6FB132;
+}
+
 a.banner-image:visited {
   color: #007997;
 }
@@ -87,14 +95,6 @@ a.credits-list-footer:visited {
 
 a.credits-list-footer {
   color: #00B6E4;
-}
-
-a footer:visited {
-  color: #00892D;
-}
-
-a footer {
-  color: #6FB132;
 }
 
 .logo-name {
