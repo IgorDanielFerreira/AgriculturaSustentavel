@@ -126,10 +126,10 @@ footer a {
   width: 100%;
 }
 
-.linha-vertical {
+.vertical-line {
   height: 100%;
   width: 1px;
-  border-right: 1px dashed #ccc;
+  background-color: #000;
 }
 
 .banner-image {
